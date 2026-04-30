@@ -1,7 +1,4 @@
-"use client";
-
 import Link from "next/link";
-import { useState } from "react";
 import siteData from "../../data/site.json";
 
 const footerLinks = {
@@ -27,15 +24,6 @@ const footerLinks = {
 };
 
 export function Footer() {
-  const [email, setEmail] = useState("");
-  const [subscribed, setSubscribed] = useState(false);
-
-  const handleSubscribe = (e: React.FormEvent) => {
-    e.preventDefault();
-    setSubscribed(true);
-    setEmail("");
-  };
-
   return (
     <footer className="relative bg-[#060810] text-white overflow-hidden">
       <div className="absolute inset-0 gradient-bg" />
@@ -45,7 +33,7 @@ export function Footer() {
       </div>
 
       <div className="relative z-10 max-w-7xl mx-auto px-6 lg:px-8 pt-24 pb-10">
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-14 pb-16 border-b border-white/[0.06]">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-14 pb-16 border-b border-white/[0.06]">
           <div className="lg:col-span-1">
             <Link href="/" className="flex items-center gap-3 mb-8 group">
               <div className="relative">
@@ -121,40 +109,6 @@ export function Footer() {
             </ul>
           </div>
 
-          <div>
-            <h4 className="font-heading font-semibold text-xs uppercase tracking-[0.2em] text-white/60 mb-8">
-              Newsletter
-            </h4>
-            <p className="text-white/40 text-sm mb-6 font-light leading-relaxed">
-              Get the latest insights on SEO, GEO, and digital marketing delivered
-              to your inbox.
-            </p>
-            {subscribed ? (
-              <div className="flex items-center gap-2 text-success text-sm font-medium">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-                  <polyline points="20 6 9 17 4 12" />
-                </svg>
-                Thanks for subscribing!
-              </div>
-            ) : (
-              <form onSubmit={handleSubscribe} className="space-y-3">
-                <input
-                  type="email"
-                  value={email}
-                  onChange={(e) => setEmail(e.target.value)}
-                  placeholder="Your email"
-                  required
-                  className="w-full px-4 py-3 glass rounded-xl text-sm text-white placeholder:text-white/30 focus:outline-none focus:border-accent/40 transition-all duration-300"
-                />
-                <button
-                  type="submit"
-                  className="btn-primary w-full px-4 py-3 rounded-xl text-white text-sm font-semibold"
-                >
-                  <span>Subscribe</span>
-                </button>
-              </form>
-            )}
-          </div>
         </div>
 
         <div className="pt-10 flex flex-col md:flex-row items-center justify-between gap-4">
