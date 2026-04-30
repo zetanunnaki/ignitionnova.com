@@ -1,0 +1,302 @@
+[
+  {
+    "slug": "saas-technology",
+    "title": "SaaS & Technology",
+    "shortTitle": "SaaS & Tech",
+    "icon": "code",
+    "description": "We help SaaS and technology companies scale user acquisition through technical SEO, GEO, and conversion-optimized websites that turn free trials into paying customers.",
+    "challenges": [
+      "High customer acquisition costs in competitive markets",
+      "Complex buyer journeys with multiple stakeholders",
+      "Need for product-led growth alongside paid channels",
+      "Low visibility in AI search results for product categories"
+    ],
+    "solutions": [
+      "Product page SEO and feature-based keyword targeting",
+      "GEO optimization for AI-powered software discovery",
+      "Conversion rate optimization for trial-to-paid funnels",
+      "Technical content marketing and thought leadership"
+    ],
+    "metrics": ["180% organic traffic growth", "3.2x trial signups", "45% lower CAC"]
+  },
+  {
+    "slug": "ecommerce-retail",
+    "title": "eCommerce & Retail",
+    "shortTitle": "eCommerce",
+    "icon": "cart",
+    "description": "Drive online revenue with high-performance Shopify and headless commerce sites, product feed optimization, and multi-channel advertising that scales profitably.",
+    "challenges": [
+      "Declining ROAS on paid channels",
+      "Poor product page performance and load times",
+      "Low organic visibility against marketplace giants",
+      "Cart abandonment and checkout friction"
+    ],
+    "solutions": [
+      "Product feed optimization for Google Shopping and Meta",
+      "Shopify and headless commerce development",
+      "eCommerce SEO with category and product page targeting",
+      "Email automation for abandoned cart recovery and retention"
+    ],
+    "metrics": ["216% purchase increase", "2.4x ROAS improvement", "35% revenue growth"]
+  },
+  {
+    "slug": "health-beauty",
+    "title": "Health & Beauty",
+    "shortTitle": "Health & Beauty",
+    "icon": "heart",
+    "description": "Build brand authority and drive sales for health, beauty, and wellness brands with content-driven SEO, influencer-amplified social strategy, and conversion-focused web experiences.",
+    "challenges": [
+      "Strict advertising regulations on health claims",
+      "High competition in organic search and paid ads",
+      "Need for trust and social proof in purchasing decisions",
+      "Managing brand reputation across platforms"
+    ],
+    "solutions": [
+      "Compliant content marketing that builds authority",
+      "Social proof optimization and UGC strategy",
+      "Influencer partnership and social media management",
+      "Conversion-optimized product pages with reviews integration"
+    ],
+    "metrics": ["8.6M Meta impressions", "125% purchase uplift", "3x social engagement"]
+  },
+  {
+    "slug": "financial-services",
+    "title": "Financial Services",
+    "shortTitle": "Finance",
+    "icon": "chart",
+    "description": "Navigate regulated marketing with compliant, high-performing digital strategies for fintech, banking, insurance, and wealth management companies.",
+    "challenges": [
+      "Strict regulatory compliance requirements (FCA, SEC)",
+      "YMYL content scrutiny by search engines",
+      "Long and complex buyer decision journeys",
+      "High cost per click in financial keywords"
+    ],
+    "solutions": [
+      "E-E-A-T optimized content for YMYL categories",
+      "GEO optimization for AI-powered financial advice queries",
+      "LinkedIn advertising for B2B financial services",
+      "Conversion funnel optimization for lead qualification"
+    ],
+    "metrics": ["340% MQL increase", "45% CPA reduction", "2x organic traffic"]
+  },
+  {
+    "slug": "professional-services",
+    "title": "Professional Services",
+    "shortTitle": "Professional Services",
+    "icon": "briefcase",
+    "description": "Generate high-quality leads for law firms, consulting agencies, accounting practices, and B2B service providers through authority-building SEO and targeted advertising.",
+    "challenges": [
+      "Long sales cycles and high-value client acquisition",
+      "Establishing authority and trust in competitive markets",
+      "Local search visibility for multi-location firms",
+      "Measuring marketing attribution for offline conversions"
+    ],
+    "solutions": [
+      "Local SEO and Google Business Profile optimization",
+      "Thought leadership content and E-E-A-T signals",
+      "LinkedIn and Google Ads for high-intent lead generation",
+      "Attribution modeling connecting marketing to signed clients"
+    ],
+    "metrics": ["300+ leads per week", "175% revenue increase", "4.5x pipeline growth"]
+  },
+  {
+    "slug": "education",
+    "title": "Education & Training",
+    "shortTitle": "Education",
+    "icon": "book",
+    "description": "Increase enrollments and student engagement for universities, online course platforms, and training providers with SEO, paid media, and content strategies tailored to education.",
+    "challenges": [
+      "Seasonal enrollment cycles and timing-sensitive campaigns",
+      "Competing with large institutions and marketplace platforms",
+      "Complex decision-making process involving multiple influencers",
+      "Need for strong organic presence in course discovery"
+    ],
+    "solutions": [
+      "Course page SEO and programmatic content strategy",
+      "GEO optimization for AI-powered education recommendations",
+      "PPC campaigns aligned with enrollment windows",
+      "Content marketing showcasing outcomes and student success"
+    ],
+    "metrics": ["150% enrollment growth", "60% lower cost per enrollment", "2x organic leads"]
+  },
+  {
+    "slug": "food-beverage",
+    "title": "Food & Beverage",
+    "shortTitle": "Food & Drink",
+    "icon": "coffee",
+    "description": "Drive brand awareness and sales for food, beverage, and hospitality brands with mouth-watering content, social media strategy, and performance marketing that delivers hungry customers.",
+    "challenges": [
+      "Highly competitive local and national markets",
+      "Short product consideration cycles requiring impulse triggers",
+      "Managing multi-location or franchise marketing",
+      "Seasonal demand fluctuations"
+    ],
+    "solutions": [
+      "Local SEO for multi-location restaurant and retail brands",
+      "Social media management with food-focused visual content",
+      "Meta and Google Ads optimized for local awareness and delivery",
+      "Email marketing for promotions, loyalty, and repeat purchases"
+    ],
+    "metrics": ["66% YoY increase", "3x local visibility", "2.8x social following growth"]
+  },
+  {
+    "slug": "home-garden",
+    "title": "Home & Garden",
+    "shortTitle": "Home & Garden",
+    "icon": "home",
+    "description": "Grow your home and garden brand with SEO-driven product discovery, seasonal content strategies, and eCommerce optimization that turns browsers into buyers.",
+    "challenges": [
+      "Seasonal demand requiring flexible marketing strategies",
+      "High competition from marketplace platforms (Amazon, Wayfair)",
+      "Visual-first purchase decisions requiring strong imagery",
+      "Long consideration periods for high-ticket items"
+    ],
+    "solutions": [
+      "Seasonal SEO and content planning for peak demand",
+      "Product feed optimization for Google Shopping",
+      "Pinterest and Instagram advertising for visual discovery",
+      "Email automation for abandoned carts and back-in-stock alerts"
+    ],
+    "metrics": ["180% organic traffic growth", "2.1x ROAS", "45% repeat purchase rate"]
+  },
+  {
+    "slug": "plumbing",
+    "title": "Plumbing Services",
+    "shortTitle": "Plumbing",
+    "icon": "wrench",
+    "description": "Fill your plumbing business pipeline with local SEO, Google Ads, and reputation management that puts your company at the top when homeowners need emergency service.",
+    "challenges": [
+      "Intense local competition from large franchises",
+      "Emergency-driven search behavior requiring instant visibility",
+      "Managing reviews and reputation across platforms",
+      "Tracking phone call leads and offline conversions"
+    ],
+    "solutions": [
+      "Google Business Profile and local SEO domination",
+      "Google Local Service Ads (LSAs) management",
+      "Review generation and reputation management systems",
+      "Call tracking and lead attribution setup"
+    ],
+    "metrics": ["5x Google Maps visibility", "300% more calls", "45% lower cost per lead"]
+  },
+  {
+    "slug": "hvac",
+    "title": "HVAC Services",
+    "shortTitle": "HVAC",
+    "icon": "thermometer",
+    "description": "Keep your HVAC business booked year-round with seasonal digital marketing strategies, local SEO dominance, and lead generation systems built for heating and cooling companies.",
+    "challenges": [
+      "Extreme seasonality in demand (summer AC, winter heating)",
+      "High cost per click for competitive HVAC keywords",
+      "Need for 24/7 emergency service visibility",
+      "Balancing residential and commercial lead generation"
+    ],
+    "solutions": [
+      "Seasonal PPC campaigns aligned with weather patterns",
+      "Local SEO targeting service area neighborhoods",
+      "Google LSAs and Maps optimization for emergency searches",
+      "Website speed and conversion optimization for mobile users"
+    ],
+    "metrics": ["4x seasonal lead volume", "250% organic growth", "38% lower CPA"]
+  },
+  {
+    "slug": "electrician",
+    "title": "Electrical Services",
+    "shortTitle": "Electricians",
+    "icon": "zap",
+    "description": "Power up your electrical business with local search dominance, targeted advertising, and a high-converting website that turns searches into booked jobs.",
+    "challenges": [
+      "Standing out against large franchise competitors",
+      "Emergency service searches requiring top-of-page visibility",
+      "Building trust online for in-home service providers",
+      "Limited marketing budgets for small business owners"
+    ],
+    "solutions": [
+      "Hyper-local SEO for neighborhood-level targeting",
+      "Google Ads with call extensions for emergency services",
+      "Trust-building website with licensing, insurance, and reviews",
+      "Automated follow-up and review request systems"
+    ],
+    "metrics": ["3x website leads", "200% more booked jobs", "5-star review growth"]
+  },
+  {
+    "slug": "roofing",
+    "title": "Roofing Services",
+    "shortTitle": "Roofing",
+    "icon": "home",
+    "description": "Generate high-value roofing leads with storm-chasing PPC, local SEO, and a website that builds trust and converts homeowners into signed contracts.",
+    "challenges": [
+      "Extremely high CPC for roofing keywords ($50-$100+)",
+      "Weather and storm-dependent demand spikes",
+      "Long sales cycles for large residential projects",
+      "Insurance claim and restoration marketing complexity"
+    ],
+    "solutions": [
+      "Weather-triggered PPC campaigns for storm damage",
+      "Local SEO and content targeting roof replacement keywords",
+      "High-trust website with gallery, reviews, and financing info",
+      "Lead nurturing automation for long consideration periods"
+    ],
+    "metrics": ["10x ROI on ad spend", "180% more estimates", "60% close rate improvement"]
+  },
+  {
+    "slug": "landscaping",
+    "title": "Landscaping & Lawn Care",
+    "shortTitle": "Landscaping",
+    "icon": "tree",
+    "description": "Grow your landscaping business with seasonal marketing strategies, local SEO, and a portfolio-driven website that showcases your best work and books new clients.",
+    "challenges": [
+      "Heavy seasonal demand requiring year-round marketing planning",
+      "Visual-first decision making requiring strong before/after content",
+      "Competition from national lawn care franchises",
+      "Managing recurring service vs. one-time project marketing"
+    ],
+    "solutions": [
+      "Seasonal content calendar and local SEO strategy",
+      "Portfolio-driven website with before/after galleries",
+      "Nextdoor and social media advertising for neighborhood targeting",
+      "Email automation for recurring service reminders and upsells"
+    ],
+    "metrics": ["4x spring lead volume", "200% recurring revenue", "3.5x social leads"]
+  },
+  {
+    "slug": "cleaning-services",
+    "title": "Cleaning Services",
+    "shortTitle": "Cleaning",
+    "icon": "sparkles",
+    "description": "Scale your residential or commercial cleaning business with local SEO, Google Ads, and booking-optimized websites that fill your schedule with recurring clients.",
+    "challenges": [
+      "Low barriers to entry creating intense local competition",
+      "Price-sensitive customers comparison shopping online",
+      "Difficulty building recurring revenue vs. one-time bookings",
+      "Managing service area expansion across neighborhoods"
+    ],
+    "solutions": [
+      "Local SEO targeting neighborhood and zip code searches",
+      "Google Ads with instant quote and booking CTAs",
+      "Online booking integration and conversion optimization",
+      "Referral program automation and review generation"
+    ],
+    "metrics": ["350% more bookings", "3x recurring clients", "55% lower acquisition cost"]
+  },
+  {
+    "slug": "pest-control",
+    "title": "Pest Control Services",
+    "shortTitle": "Pest Control",
+    "icon": "shield",
+    "description": "Eliminate the competition and dominate local search for pest control services with emergency-focused PPC, seasonal SEO, and trust-building digital strategies.",
+    "challenges": [
+      "Emergency-driven search behavior requiring instant visibility",
+      "Seasonal pest cycles affecting demand patterns",
+      "Consumer trust concerns with chemical treatments",
+      "Multi-service marketing (termites, rodents, insects, wildlife)"
+    ],
+    "solutions": [
+      "Emergency PPC campaigns with click-to-call and LSAs",
+      "Seasonal content strategy aligned with pest activity cycles",
+      "Trust signals: licensing, eco-friendly options, and guarantees",
+      "Service-specific landing pages for each pest type"
+    ],
+    "metrics": ["4x emergency call volume", "200% organic growth", "40% lower CPA"]
+  }
+]

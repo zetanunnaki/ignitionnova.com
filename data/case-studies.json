@@ -1,0 +1,47 @@
+[
+  {
+    "slug": "techscale-lead-generation",
+    "title": "How TechScale Increased MQLs by 340% in 6 Months",
+    "client": "TechScale Inc.",
+    "industry": "SaaS / Technology",
+    "services": ["Technical SEO", "CRO", "Content Strategy"],
+    "heroImage": "/images/case-studies/techscale-hero.jpg",
+    "metrics": [
+      { "value": "340%", "label": "MQL Increase" },
+      { "value": "45%", "label": "Lower CPA" },
+      { "value": "2.1x", "label": "Pipeline Velocity" },
+      { "value": "98", "label": "Lighthouse Score" }
+    ],
+    "excerpt": "A comprehensive technical SEO overhaul combined with systematic CRO experimentation transformed TechScale's digital pipeline from underperforming to industry-leading."
+  },
+  {
+    "slug": "meridian-health-organic-growth",
+    "title": "Meridian Health: From Page 5 to Position 1 in 90 Days",
+    "client": "Meridian Health",
+    "industry": "Healthcare",
+    "services": ["Technical SEO", "Content Strategy", "Link Building"],
+    "heroImage": "/images/case-studies/meridian-hero.jpg",
+    "metrics": [
+      { "value": "200%", "label": "Organic Traffic" },
+      { "value": "#1", "label": "Target Keywords" },
+      { "value": "67%", "label": "Bounce Rate Drop" },
+      { "value": "4.2x", "label": "ROI" }
+    ],
+    "excerpt": "Strategic content architecture and aggressive technical optimization propelled Meridian Health from obscurity to dominant search visibility in their competitive healthcare niche."
+  },
+  {
+    "slug": "nexgen-geo-strategy",
+    "title": "NexGen Financial: First-Mover Advantage in AI Search",
+    "client": "NexGen Financial",
+    "industry": "Financial Services",
+    "services": ["GEO", "Content Authority", "Entity Optimization"],
+    "heroImage": "/images/case-studies/nexgen-hero.jpg",
+    "metrics": [
+      { "value": "85%", "label": "AI Citation Rate" },
+      { "value": "156%", "label": "Branded Search Lift" },
+      { "value": "3.8x", "label": "Lead Quality Score" },
+      { "value": "12", "label": "AI Platforms Citing" }
+    ],
+    "excerpt": "An industry-first Generative Engine Optimization strategy positioned NexGen Financial as the authoritative source cited across ChatGPT, Gemini, and Perplexity for financial planning queries."
+  }
+]

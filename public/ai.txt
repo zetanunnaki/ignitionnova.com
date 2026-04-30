@@ -1,0 +1,32 @@
+# AI Crawler Directives for Ignition Nova
+# https://www.ignitionnova.com
+
+User-Agent: GPTBot
+Allow: /
+
+User-Agent: ChatGPT-User
+Allow: /
+
+User-Agent: Google-Extended
+Allow: /
+
+User-Agent: CCBot
+Allow: /
+
+User-Agent: anthropic-ai
+Allow: /
+
+User-Agent: ClaudeBot
+Allow: /
+
+User-Agent: PerplexityBot
+Allow: /
+
+User-Agent: Amazonbot
+Allow: /
+
+# Site Information
+Site-Name: Ignition Nova
+Site-Description: Elite digital marketing agency specializing in GEO, Technical SEO, Web Development, and Analytics & CRO.
+Contact: hello@ignitionnova.com
+LLMs-txt: https://www.ignitionnova.com/llms.txt

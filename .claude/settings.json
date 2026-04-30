@@ -1,0 +1,23 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:www.ignitionnova.com)",
+      "Bash(npx --version)",
+      "Bash(curl -s -L -A \"Mozilla/5.0 \\(Windows NT 10.0; Win64; x64\\) AppleWebKit/537.36 \\(KHTML, like Gecko\\) Chrome/120.0.0.0 Safari/537.36\" \"https://thegoodmarketer.co.uk/\" -o /tmp/tgm_homepage.html)",
+      "WebFetch(domain:thegoodmarketer.co.uk)",
+      "Bash(npm uninstall *)",
+      "Bash(node -e ' *)",
+      "Bash(node -e \"const sharp = require\\('sharp'\\); console.log\\('sharp available'\\);\")",
+      "Bash(git checkout *)",
+      "Bash(gh auth *)",
+      "PowerShell(gh auth status)",
+      "PowerShell(winget install --id GitHub.cli --accept-package-agreements --accept-source-agreements 2>&1)",
+      "PowerShell(& \"C:\\\\Program Files\\\\GitHub CLI\\\\gh.exe\" auth status 2>&1)",
+      "PowerShell(& \"C:\\\\Program Files\\\\GitHub CLI\\\\gh.exe\" auth login --web --git-protocol https 2>&1)",
+      "PowerShell(& \"C:\\\\Program Files\\\\GitHub CLI\\\\gh.exe\" repo create ignitionnova.com --public --description \"Ignition Nova - Elite Digital Marketing Agency\" --source \"C:\\\\Users\\\\Issam\\\\ignitionnova.com\" --remote origin 2>&1)"
+    ],
+    "additionalDirectories": [
+      "C:\\Users\\Issam\\ignitionnova.com\\src\\app\\services"
+    ]
+  }
+}

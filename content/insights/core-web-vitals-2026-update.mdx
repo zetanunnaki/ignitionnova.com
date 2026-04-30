@@ -1,0 +1,67 @@
+---
+title: "Core Web Vitals 2026: What Changed and How to Adapt"
+date: "2026-04-08"
+category: "Technical"
+author: "Ignition Nova Team"
+readTime: "8 min read"
+description: "Google's latest Core Web Vitals update introduces new metrics. Learn what INP really means for your site and how to achieve perfect scores."
+featured: true
+---
+
+## The 2026 Core Web Vitals Update
+
+Google has refined its Core Web Vitals metrics for 2026, with Interaction to Next Paint (INP) fully replacing First Input Delay (FID) and new emphasis on visual stability during dynamic content loading.
+
+## Understanding INP
+
+INP measures the latency of every click, tap, and keyboard interaction a user makes with a page, and reports the worst interaction (with outliers excluded). Unlike FID, which only measured the first interaction, INP captures the full picture of a page's responsiveness throughout the user's session.
+
+### The New Thresholds
+
+| Metric | Good | Needs Improvement | Poor |
+|--------|------|-------------------|------|
+| LCP | ≤ 2.5s | ≤ 4.0s | > 4.0s |
+| INP | ≤ 150ms | ≤ 300ms | > 300ms |
+| CLS | ≤ 0.1 | ≤ 0.25 | > 0.25 |
+| SFR (new) | ≥ 90% | ≥ 60% | < 60% |
+
+## What Changed
+
+- **INP thresholds tightened**: Good is now under 150ms (down from 200ms)
+- **CLS calculation updated**: Layout shifts during user interactions are now weighted differently
+- **New metric: Smooth Frame Rate (SFR)**: Measures animation and scroll jank
+
+## How to Achieve Perfect Scores
+
+### Optimize JavaScript Execution
+
+Break up long tasks using `scheduler.yield()` or `setTimeout`. Prioritize user-visible work and defer non-critical JavaScript. The key is ensuring no single task blocks the main thread for more than 50ms.
+
+### Minimize Layout Shifts
+
+Set explicit dimensions on all media elements. Use CSS `contain` to isolate layout recalculations. Prefer `transform` animations over layout-triggering properties like `width`, `height`, or `top`.
+
+### Implement Progressive Loading
+
+Use the Intersection Observer API for lazy loading. Implement skeleton screens that match final content dimensions exactly. This prevents the jarring layout shifts that kill your CLS score.
+
+### The SFR Challenge
+
+The new Smooth Frame Rate metric requires you to maintain 60fps during scrolling and animations. This means:
+
+- Avoid `will-change` on too many elements
+- Use CSS transforms instead of layout properties for animations
+- Implement virtualization for long lists
+- Test on mid-range mobile devices, not just your dev machine
+
+## Our Recommended Stack for Perfect Scores
+
+We consistently achieve 100/100 Lighthouse scores using:
+
+1. **Next.js or Astro** for framework-level optimizations
+2. **Image optimization** with WebP/AVIF and responsive sizes
+3. **Font subsetting** with `font-display: optional`
+4. **Critical CSS inlining** with deferred stylesheet loading
+5. **Service Worker** for repeat visit performance
+
+The investment in Core Web Vitals pays dividends in both rankings and conversions. Every 100ms improvement in LCP correlates with a 1.3% increase in conversion rates.

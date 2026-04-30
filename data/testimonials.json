@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Sarah Chen",
+    "title": "VP of Marketing",
+    "company": "TechScale Inc.",
+    "quote": "Ignition Nova didn't just increase our traffic—they transformed our entire digital pipeline. We saw a 340% increase in marketing-qualified leads within 6 months.",
+    "metric": "340% MQL Increase",
+    "avatar": "/images/testimonials/avatar-1.svg",
+    "rating": 5,
+    "datePublished": "2025-11-15"
+  },
+  {
+    "name": "Marcus Rivera",
+    "title": "CEO",
+    "company": "GrowthForge",
+    "quote": "Their technical SEO work was surgical. Our Core Web Vitals went from failing to perfect scores, and organic traffic doubled in 90 days.",
+    "metric": "2x Organic Traffic",
+    "avatar": "/images/testimonials/avatar-2.svg",
+    "rating": 5,
+    "datePublished": "2025-09-22"
+  },
+  {
+    "name": "Elena Kowalski",
+    "title": "Director of Digital",
+    "company": "Meridian Health",
+    "quote": "The ROI speaks for itself. Ignition Nova's CRO program reduced our cost per acquisition by 45% while increasing conversion rates across every funnel stage.",
+    "metric": "45% CPA Reduction",
+    "avatar": "/images/testimonials/avatar-3.svg",
+    "rating": 5,
+    "datePublished": "2026-01-10"
+  },
+  {
+    "name": "David Park",
+    "title": "CMO",
+    "company": "NexGen Financial",
+    "quote": "They were the first agency to talk to us about Generative Engine Optimization. Now our brand is cited in AI search results, giving us a massive competitive advantage.",
+    "metric": "AI Search Leader",
+    "avatar": "/images/testimonials/avatar-4.svg",
+    "rating": 5,
+    "datePublished": "2026-02-18"
+  }
+]

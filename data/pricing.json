@@ -1,0 +1,89 @@
+[
+  {
+    "name": "Starter",
+    "price": "$3,500",
+    "period": "/month",
+    "hours": "15 hours",
+    "term": "Month-to-month",
+    "description": "For businesses ready to build a solid digital foundation and start seeing results.",
+    "support": "Account Executive",
+    "meetings": "Monthly strategy call",
+    "features": [
+      "Technical SEO Audit & Fixes",
+      "Core Web Vitals Optimization",
+      "Keyword Research & Strategy",
+      "Schema Markup Implementation",
+      "Up to 4 Content Pieces/Month",
+      "Monthly Performance Reports",
+      "Email Support"
+    ],
+    "highlighted": false,
+    "cta": "Get Started"
+  },
+  {
+    "name": "Growth",
+    "price": "$7,500",
+    "period": "/month",
+    "hours": "30 hours",
+    "term": "3-month minimum",
+    "description": "For companies serious about scaling organic traffic and AI search visibility.",
+    "support": "Senior Account Manager",
+    "meetings": "Bi-weekly strategy calls",
+    "features": [
+      "Everything in Starter",
+      "Generative Engine Optimization (GEO)",
+      "AI Search Visibility Monitoring",
+      "Paid Ads Campaign Management",
+      "Link Building Campaign",
+      "Up to 8 Content Pieces/Month",
+      "CRO Experiment Program",
+      "Dedicated Account Manager"
+    ],
+    "highlighted": true,
+    "cta": "Most Popular"
+  },
+  {
+    "name": "Scale",
+    "price": "$15,000",
+    "period": "/month",
+    "hours": "50 hours",
+    "term": "3-month minimum",
+    "description": "Full-service digital growth for ambitious brands ready to dominate their market.",
+    "support": "Senior Account Manager",
+    "meetings": "Weekly strategy calls",
+    "features": [
+      "Everything in Growth",
+      "Multi-Channel Paid Advertising",
+      "Social Media Management",
+      "Email Marketing & Automation",
+      "Video Content Production",
+      "Bespoke Analytics Dashboard",
+      "Advanced Attribution Modeling",
+      "Priority Support"
+    ],
+    "highlighted": false,
+    "cta": "Scale Up"
+  },
+  {
+    "name": "Enterprise",
+    "price": "Custom",
+    "period": "",
+    "hours": "Unlimited",
+    "term": "Custom agreement",
+    "description": "Full digital transformation for enterprise organizations with complex, multi-market needs.",
+    "support": "Dedicated Strategy Team",
+    "meetings": "Weekly calls + quarterly reviews",
+    "features": [
+      "Everything in Scale",
+      "Custom Web Development",
+      "Multi-Market & International SEO",
+      "Executive Dashboard & Board Reports",
+      "Team Training & Workshops",
+      "Service-Level Agreement (SLA)",
+      "Dedicated Slack Channel",
+      "Quarterly Business Reviews"
+    ],
+    "highlighted": false,
+    "cta": "Contact Us"
+  }
+]

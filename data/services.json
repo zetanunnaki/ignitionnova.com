@@ -1,0 +1,257 @@
+[
+  {
+    "slug": "generative-engine-optimization",
+    "title": "Generative Engine Optimization",
+    "shortTitle": "GEO & AI Search",
+    "description": "Future-proof your visibility in the age of AI-powered search. We optimize your content and authority signals for ChatGPT, Gemini, Perplexity, and every generative engine reshaping how buyers discover solutions.",
+    "icon": "sparkles",
+    "number": "01",
+    "subServices": [
+      "AI Search Visibility Audits",
+      "LLM Citation Optimization",
+      "Entity & Knowledge Graph Strategy",
+      "Content Authority Architecture"
+    ],
+    "definition": "Generative Engine Optimization (GEO) is the practice of optimizing digital content, entity relationships, and authority signals so that AI-powered search engines — including ChatGPT, Google Gemini, Perplexity, and Claude — cite your brand as a trusted source in their generated responses.",
+    "statistics": [
+      "65% of Google searches result in zero clicks as of 2025 (SparkToro/Datos)",
+      "AI search usage grew 1,200% YoY in 2025 (Similarweb)",
+      "Brands cited by AI engines see 3.2x higher trust signals (Northwestern University, 2024)"
+    ],
+    "problem": "Traditional SEO alone won't save you in 2026. AI-powered search engines are answering user queries directly—bypassing your website entirely. If your brand isn't cited in AI-generated answers, you're invisible to the next generation of buyers.",
+    "agitation": "Your competitors are already optimizing for generative engines. Every day you wait, they capture more of the zero-click landscape. The traffic you relied on is evaporating, and your pipeline is drying up without you even noticing.",
+    "solution": "Our GEO methodology reverse-engineers how large language models source, evaluate, and cite information. We restructure your content authority, entity relationships, and semantic footprint so AI engines consistently reference your brand as the definitive answer.",
+    "deliverables": [
+      "AI Search Visibility Audit",
+      "Entity & Knowledge Graph Optimization",
+      "Content Authority Architecture",
+      "LLM Citation Monitoring Dashboard",
+      "Monthly GEO Performance Reports"
+    ],
+    "featured": true
+  },
+  {
+    "slug": "technical-seo-core-web-vitals",
+    "title": "Technical SEO & Core Web Vitals",
+    "shortTitle": "Technical SEO",
+    "description": "We engineer your website's technical foundation for perfect Lighthouse scores, crawlability, and indexation—turning your site into Google's favorite destination.",
+    "icon": "code",
+    "number": "02",
+    "subServices": [
+      "Organic SEO",
+      "eCommerce SEO",
+      "International SEO",
+      "Digital PR & Link Building"
+    ],
+    "definition": "Technical SEO is the process of optimizing a website's infrastructure — including site speed, crawlability, indexation, structured data, and Core Web Vitals — to help search engines efficiently discover, render, and rank content.",
+    "statistics": [
+      "A 1-second delay in page load reduces conversions by 7% (Akamai)",
+      "53% of mobile users abandon sites that take over 3 seconds to load (Google)",
+      "Sites with perfect Core Web Vitals rank 24% higher on average (Searchmetrics, 2025)"
+    ],
+    "problem": "A beautiful website means nothing if search engines can't crawl, index, and rank it. Slow load times, broken schemas, and poor Core Web Vitals are silently killing your organic traffic.",
+    "agitation": "Every millisecond of load time costs you conversions. Google's algorithm punishes technically deficient sites, pushing you further down while competitors with leaner, faster sites take your place.",
+    "solution": "We perform a forensic-level technical audit and rebuild your site's infrastructure for speed, accessibility, and perfect crawlability. From server response times to structured data, every byte is optimized.",
+    "deliverables": [
+      "Comprehensive Technical SEO Audit",
+      "Core Web Vitals Optimization",
+      "Schema Markup Implementation",
+      "Site Architecture & Internal Linking Strategy",
+      "Crawl Budget Optimization",
+      "Page Speed Engineering"
+    ],
+    "featured": true
+  },
+  {
+    "slug": "paid-advertising",
+    "title": "Paid Advertising & PPC",
+    "shortTitle": "Paid Ads & PPC",
+    "description": "Maximize every ad dollar with precision-targeted campaigns across Google, Meta, and LinkedIn. We engineer paid strategies that deliver qualified leads at scale.",
+    "icon": "target",
+    "number": "03",
+    "subServices": [
+      "Google Search & Shopping Ads",
+      "Meta Ads (Facebook & Instagram)",
+      "LinkedIn Advertising",
+      "Display & Retargeting Campaigns"
+    ],
+    "definition": "Pay-Per-Click (PPC) advertising is a digital marketing model where advertisers pay a fee each time their ad is clicked. It includes search ads, display ads, social media ads, and shopping campaigns across platforms like Google, Meta, and LinkedIn.",
+    "statistics": [
+      "Businesses earn an average of $2 for every $1 spent on Google Ads (Google Economic Impact)",
+      "The average conversion rate for Google Ads across industries is 4.40% for search (WordStream, 2025)",
+      "LinkedIn Ads deliver 2x higher conversion rates for B2B than other social platforms (LinkedIn)"
+    ],
+    "problem": "You're spending on ads but can't tell what's working. High CPAs, low quality leads, and wasted budget on broad targeting are bleeding your marketing spend dry.",
+    "agitation": "Every poorly optimized campaign is money burned. Your competitors are running tighter targeting, better creatives, and smarter bidding strategies — capturing the leads that should be yours.",
+    "solution": "We build and manage high-performance paid campaigns with granular audience targeting, conversion tracking, and continuous A/B testing. Every dollar is tracked from click to closed revenue.",
+    "deliverables": [
+      "Campaign Strategy & Architecture",
+      "Audience Research & Targeting",
+      "Ad Creative Development",
+      "Conversion Tracking Setup",
+      "Bid Strategy Optimization",
+      "Monthly Performance Reports"
+    ],
+    "featured": true
+  },
+  {
+    "slug": "high-performance-web-development",
+    "title": "High-Performance Web Development",
+    "shortTitle": "Web Development",
+    "description": "We build blazing-fast, conversion-optimized websites that turn visitors into customers. Every pixel engineered for performance, every interaction designed for revenue.",
+    "icon": "monitor",
+    "number": "04",
+    "subServices": [
+      "Next.js & React Development",
+      "Shopify & eCommerce Builds",
+      "Website Redesign & Migration",
+      "Conversion Rate Optimization"
+    ],
+    "definition": "High-performance web development is the practice of building websites using modern frameworks and optimization techniques — such as static site generation, edge computing, and code splitting — to achieve sub-second load times, perfect accessibility scores, and maximum conversion rates.",
+    "statistics": [
+      "Pages loading within 1 second convert 3x more than pages loading in 5 seconds (Portent)",
+      "79% of shoppers dissatisfied with site performance are less likely to buy again (Akamai)",
+      "Next.js static sites achieve 40% faster Time to Interactive than traditional SPAs (Vercel, 2025)"
+    ],
+    "problem": "Your website is your most powerful sales tool, yet most agencies deliver bloated WordPress sites running 40+ plugins that load in 8 seconds. That's not a website—it's a liability.",
+    "agitation": "53% of mobile users abandon sites that take longer than 3 seconds to load. Your slow, outdated website isn't just losing visitors—it's actively driving revenue to your competitors.",
+    "solution": "We architect high-performance web experiences using modern frameworks (Next.js, Astro) that load instantly, rank higher, and convert more. Zero bloat. Zero compromise.",
+    "deliverables": [
+      "Custom Website Design & Development",
+      "Headless CMS Integration",
+      "Progressive Web App (PWA) Features",
+      "Conversion Rate Optimization (CRO) Built-In",
+      "Accessibility (WCAG 2.2) Compliance",
+      "Ongoing Performance Monitoring"
+    ],
+    "featured": true
+  },
+  {
+    "slug": "content-marketing",
+    "title": "Content Marketing & Strategy",
+    "shortTitle": "Content Marketing",
+    "description": "Strategic content that builds authority, drives organic traffic, and gets cited by AI search engines. From thought leadership to video — we create content that compounds.",
+    "icon": "pen",
+    "number": "05",
+    "subServices": [
+      "Content Strategy & Planning",
+      "Blog & Article Production",
+      "Video Content Creation",
+      "Copywriting & Brand Voice"
+    ],
+    "definition": "Content marketing is the strategic creation and distribution of valuable, relevant, and consistent content — including articles, videos, whitepapers, and social posts — to attract and retain a clearly defined audience and drive profitable customer action.",
+    "statistics": [
+      "Content marketing generates 3x more leads than traditional outbound marketing per dollar spent (DemandMetric)",
+      "Companies that blog receive 97% more inbound links than those that don't (HubSpot)",
+      "70% of B2B buyers consume 3-5 pieces of content before engaging with a sales rep (Demand Gen Report)"
+    ],
+    "problem": "You know content matters, but your blog is a graveyard of generic posts that no one reads. Without a strategic content engine, you're invisible to both search engines and your target audience.",
+    "agitation": "Your competitors are publishing authoritative, data-backed content that ranks on page one and gets cited by AI engines. Every day without a content strategy, you lose market share to brands that invest in thought leadership.",
+    "solution": "We build content engines that produce research-backed, authority-building content designed to rank in traditional search and get cited in AI-generated answers. Every piece maps to your buyer journey and business objectives.",
+    "deliverables": [
+      "Content Strategy & Editorial Calendar",
+      "SEO-Optimized Blog Articles",
+      "Thought Leadership Pieces",
+      "Video Script & Production",
+      "Content Performance Analytics",
+      "Monthly Content Reports"
+    ],
+    "featured": false
+  },
+  {
+    "slug": "social-media-management",
+    "title": "Social Media Management",
+    "shortTitle": "Social Media",
+    "description": "Build a brand presence that converts followers into customers. We manage your social channels with strategy-first content, community engagement, and performance tracking.",
+    "icon": "share",
+    "number": "06",
+    "subServices": [
+      "Social Strategy & Planning",
+      "Community Management",
+      "Influencer Partnerships",
+      "Social Analytics & Reporting"
+    ],
+    "definition": "Social media management is the process of creating, scheduling, publishing, and analyzing content across social platforms — including LinkedIn, Instagram, X, and TikTok — while engaging with the audience to build brand awareness and drive business growth.",
+    "statistics": [
+      "54% of social browsers use social media to research products (GlobalWebIndex)",
+      "Social media ad spend is projected to reach $276 billion globally in 2026 (Statista)",
+      "Brands that respond to customer service requests on social see 20-40% more revenue per customer (Bain & Company)"
+    ],
+    "problem": "You're posting on social media without a strategy — random content, inconsistent frequency, and zero connection to business outcomes. It's noise, not marketing.",
+    "agitation": "Your competitors are building engaged communities and turning social followers into paying customers. Inconsistent posting and no engagement strategy means your brand looks absent — or worse, irrelevant.",
+    "solution": "We develop platform-specific strategies, create scroll-stopping content, and manage your community engagement. Every post is tied to business objectives and measured against revenue impact.",
+    "deliverables": [
+      "Social Media Strategy & Content Calendar",
+      "Platform-Specific Content Creation",
+      "Community Management & Engagement",
+      "Influencer Outreach & Partnerships",
+      "Monthly Analytics & Performance Reports",
+      "Paid Social Campaign Management"
+    ],
+    "featured": false
+  },
+  {
+    "slug": "email-marketing",
+    "title": "Email Marketing & Automation",
+    "shortTitle": "Email Marketing",
+    "description": "Turn your email list into a revenue engine with personalized campaigns, smart automation flows, and data-driven segmentation that converts subscribers into customers.",
+    "icon": "mail",
+    "number": "07",
+    "subServices": [
+      "Email Campaign Strategy",
+      "Marketing Automation Flows",
+      "List Segmentation & Personalization",
+      "Klaviyo & ESP Management"
+    ],
+    "definition": "Email marketing is the use of email to promote products or services, nurture leads, and build customer relationships through targeted campaigns, automated sequences, and personalized messaging based on subscriber behavior and segmentation.",
+    "statistics": [
+      "Email marketing delivers an average ROI of $36 for every $1 spent (Litmus, 2025)",
+      "Segmented email campaigns drive 760% more revenue than one-size-fits-all blasts (Campaign Monitor)",
+      "Automated email flows generate 320% more revenue than non-automated campaigns (Omnisend)"
+    ],
+    "problem": "You're blasting the same generic email to your entire list and watching open rates decline month after month. No segmentation, no automation, no personalization — just noise in the inbox.",
+    "agitation": "Every generic email erodes subscriber trust and trains them to ignore you. Meanwhile, your competitors are sending personalized, behavior-triggered sequences that nurture leads and recover abandoned carts automatically.",
+    "solution": "We build intelligent email systems with behavioral triggers, dynamic segmentation, and personalized content that guides subscribers through your funnel. From welcome sequences to win-back campaigns, every email earns its place.",
+    "deliverables": [
+      "Email Marketing Strategy",
+      "Automation Flow Design & Build",
+      "List Segmentation Architecture",
+      "Template Design & Copywriting",
+      "A/B Testing Program",
+      "Monthly Performance Reports"
+    ],
+    "featured": false
+  },
+  {
+    "slug": "data-analytics-cro",
+    "title": "Data Analytics & Conversion Rate Optimization",
+    "shortTitle": "Analytics & CRO",
+    "description": "Transform raw data into revenue. We build analytics infrastructures that reveal exactly where you're losing money—and fix it with data-driven CRO experiments.",
+    "icon": "chart",
+    "number": "08",
+    "subServices": [
+      "GA4 & Server-Side Tracking",
+      "Attribution Modeling",
+      "A/B Testing Programs",
+      "Heatmap & Behavioral Analysis"
+    ],
+    "definition": "Conversion Rate Optimization (CRO) is a systematic, data-driven process of increasing the percentage of website visitors who take a desired action — such as filling out a form, making a purchase, or requesting a demo — through A/B testing, behavioral analysis, and UX improvements.",
+    "statistics": [
+      "The average website converts at just 2.35%, while the top 10% convert at 11.45%+ (WordStream)",
+      "Companies that adopt structured A/B testing see 25-40% improvement in conversion rates (VWO)",
+      "Server-side tracking recovers 15-30% of conversion data lost to ad blockers (Stape.io, 2025)"
+    ],
+    "problem": "You're drowning in data but starving for insights. Google Analytics is set up wrong, your attribution model is broken, and you have no idea which marketing dollars are actually generating revenue.",
+    "agitation": "Without accurate data, every marketing decision is a gamble. You're wasting budget on channels that don't convert while neglecting the ones that do. Your board wants ROI numbers, and you're guessing.",
+    "solution": "We implement enterprise-grade analytics with server-side tracking, clean attribution modeling, and automated reporting. Then we use that data to run systematic CRO experiments that measurably increase your conversion rates.",
+    "deliverables": [
+      "GA4 & Server-Side Tracking Setup",
+      "Custom Attribution Modeling",
+      "A/B Testing Program",
+      "Heatmap & Session Recording Analysis",
+      "Monthly CRO Experiment Reports",
+      "Executive Dashboard & ROI Tracking"
+    ],
+    "featured": false
+  }
+]

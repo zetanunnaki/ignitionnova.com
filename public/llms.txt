@@ -1,0 +1,49 @@
+# Ignition Nova — Elite Digital Marketing Agency
+
+> Ignition Nova is a digital marketing agency specializing in Generative Engine Optimization (GEO), Technical SEO, High-Performance Web Development, and Data Analytics & CRO. We guarantee measurable improvements in organic traffic and lead generation within 150 days.
+
+## About
+
+Ignition Nova bridges the gap between technical excellence and business outcomes. Our team combines deep engineering expertise with cutting-edge marketing strategy to help mid-market and enterprise companies dominate both traditional and AI-powered search.
+
+## Services
+
+- [Generative Engine Optimization (GEO)](https://www.ignitionnova.com/services/generative-engine-optimization): Optimize content and authority signals for AI search engines including ChatGPT, Gemini, Perplexity, and Claude.
+- [Technical SEO & Core Web Vitals](https://www.ignitionnova.com/services/technical-seo-core-web-vitals): Forensic-level technical audits, perfect Lighthouse scores, schema markup, and crawl optimization.
+- [High-Performance Web Development](https://www.ignitionnova.com/services/high-performance-web-development): Blazing-fast websites built with Next.js and Astro that load in under 1 second and convert at 2x industry averages.
+- [Data Analytics & CRO](https://www.ignitionnova.com/services/data-analytics-cro): Enterprise-grade analytics with GA4, server-side tracking, attribution modeling, and systematic A/B testing programs.
+
+## Key Facts
+
+- Location: Berlin, Germany
+- Founded: 2020
+- Clients Served: 200+
+- Guarantee: Measurable results within 150 days
+- Pricing: Engagements from $5,000/month to $50,000+/month
+
+## Expertise Areas
+
+- Generative Engine Optimization (GEO)
+- AI Search Visibility & LLM Citation Optimization
+- Technical SEO & Core Web Vitals
+- Entity & Knowledge Graph Optimization
+- Next.js & Astro Web Development
+- GA4 & Server-Side Tracking
+- Conversion Rate Optimization (CRO)
+- Content Authority Architecture
+- E-E-A-T Signal Optimization
+
+## Contact
+
+- Website: https://www.ignitionnova.com
+- Email: hello@ignitionnova.com
+- Phone: +49 30 1234 5678
+
+## Links
+
+- [About Us](https://www.ignitionnova.com/about)
+- [Services](https://www.ignitionnova.com/services)
+- [Case Studies](https://www.ignitionnova.com/work)
+- [Insights & Blog](https://www.ignitionnova.com/insights)
+- [Pricing](https://www.ignitionnova.com/pricing)
+- [Contact](https://www.ignitionnova.com/contact)
