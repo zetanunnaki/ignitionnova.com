@@ -4,9 +4,9 @@ import { useState, useRef } from "react";
 import { motion } from "framer-motion";
 import emailjs from "@emailjs/browser";
 
-const EMAILJS_SERVICE_ID = "YOUR_SERVICE_ID";
-const EMAILJS_TEMPLATE_ID = "YOUR_TEMPLATE_ID";
-const EMAILJS_PUBLIC_KEY = "YOUR_PUBLIC_KEY";
+const EMAILJS_SERVICE_ID = "service_7rkusmd";
+const EMAILJS_TEMPLATE_ID = "template_osqiclo";
+const EMAILJS_PUBLIC_KEY = "KULtJseLvT8s5n8ZO";
 
 export function ContactForm() {
   const [formState, setFormState] = useState<"idle" | "sending" | "sent" | "error">("idle");
