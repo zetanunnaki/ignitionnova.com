@@ -69,7 +69,12 @@ export default async function InsightPage({ params }: Props) {
 
       <section className="relative pt-40 pb-24 overflow-hidden">
         <div className="absolute inset-0 bg-[#060810]" />
-        <div className="absolute inset-0 gradient-bg" />
+        <img
+          src={`/images/insights/${slug}.png`}
+          alt=""
+          className="absolute inset-0 w-full h-full object-cover opacity-30"
+        />
+        <div className="absolute inset-0 bg-gradient-to-t from-[#060810] via-[#060810]/70 to-transparent" />
         <div className="absolute inset-0 overflow-hidden pointer-events-none">
           <div className="absolute -top-40 left-1/3 w-[600px] h-[600px] rounded-full bg-accent/15 blur-[180px]" />
           <div className="absolute bottom-0 right-0 w-[400px] h-[400px] rounded-full bg-accent-hot/10 blur-[150px]" />
@@ -146,10 +151,13 @@ export default async function InsightPage({ params }: Props) {
                 >
                   <div className="h-36 relative overflow-hidden">
                     <div className="absolute inset-0 gradient-bg" />
-                    <div className="absolute inset-0 bg-gradient-to-br from-accent/20 to-accent-hot/10" />
-                    <div className="absolute inset-0 overflow-hidden pointer-events-none">
-                      <div className="absolute top-1/2 left-1/3 w-[150px] h-[150px] rounded-full bg-accent/20 blur-[60px] group-hover:bg-accent/30 transition-all duration-700" />
-                    </div>
+                    <img
+                      src={`/images/insights/${post.slug}.png`}
+                      alt={`Cover image for ${post.frontMatter.title}`}
+                      className="absolute inset-0 w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
+                      loading="lazy"
+                    />
+                    <div className="absolute inset-0 bg-gradient-to-t from-[var(--surface-darker)]/80 via-transparent to-transparent" />
                   </div>
                   <div className="p-7">
                     <div className="flex items-center gap-3 text-[10px] text-muted mb-3 font-medium uppercase tracking-wider">

@@ -5,7 +5,7 @@
     "client": "Clarion Software",
     "industry": "SaaS / Technology",
     "services": ["Technical SEO", "CRO", "Content Strategy"],
-    "heroImage": "/images/case-studies/techscale-hero.jpg",
+    "heroImage": "/images/case-studies/clarion-software-hero.png",
     "metrics": [
       { "value": "340%", "label": "MQL Increase" },
       { "value": "45%", "label": "Lower CPA" },
@@ -20,7 +20,7 @@
     "client": "Lakeview Medical Group",
     "industry": "Healthcare",
     "services": ["Technical SEO", "Content Strategy", "Link Building"],
-    "heroImage": "/images/case-studies/meridian-hero.jpg",
+    "heroImage": "/images/case-studies/lakeview-medical-hero.png",
     "metrics": [
       { "value": "200%", "label": "Organic Traffic" },
       { "value": "#1", "label": "Target Keywords" },
@@ -35,7 +35,7 @@
     "client": "Archer & Lane Financial",
     "industry": "Financial Services",
     "services": ["GEO", "Content Authority", "Entity Optimization"],
-    "heroImage": "/images/case-studies/nexgen-hero.jpg",
+    "heroImage": "/images/case-studies/archer-lane-hero.png",
     "metrics": [
       { "value": "85%", "label": "AI Citation Rate" },
       { "value": "156%", "label": "Branded Search Lift" },

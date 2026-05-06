@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Script from "next/script";
 import { DM_Sans, Space_Grotesk } from "next/font/google";
 import "./globals.css";
 import { Header } from "@/components/Header";
@@ -104,6 +105,16 @@ export default function RootLayout({
   return (
     <html lang="en" className={`${dmSans.variable} ${spaceGrotesk.variable}`}>
       <body className="min-h-screen flex flex-col antialiased">
+        <Script
+          src="https://www.googletagmanager.com/gtag/js?id=G-4Z5CH3PPXX"
+          strategy="afterInteractive"
+        />
+        <Script id="gtag-init" strategy="afterInteractive">
+          {`window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-4Z5CH3PPXX');`}
+        </Script>
         <StructuredData type="organization" />
         <SmoothScroll />
         <Header />

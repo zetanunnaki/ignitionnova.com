@@ -57,7 +57,14 @@ export default async function CaseStudyPage({ params }: Props) {
 
       <section className="relative pt-40 pb-24 overflow-hidden">
         <div className="absolute inset-0 bg-[#060810]" />
-        <div className="absolute inset-0 gradient-bg" />
+        {jsonData.heroImage && (
+          <img
+            src={jsonData.heroImage}
+            alt=""
+            className="absolute inset-0 w-full h-full object-cover opacity-30"
+          />
+        )}
+        <div className="absolute inset-0 bg-gradient-to-t from-[#060810] via-[#060810]/70 to-transparent" />
         <div className="absolute inset-0 overflow-hidden pointer-events-none">
           <div className="absolute -top-40 -left-40 w-[600px] h-[600px] rounded-full bg-accent/15 blur-[180px]" />
           <div className="absolute bottom-0 right-1/4 w-[400px] h-[400px] rounded-full bg-accent-hot/10 blur-[150px]" />

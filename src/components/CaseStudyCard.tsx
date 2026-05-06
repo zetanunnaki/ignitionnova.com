@@ -11,6 +11,7 @@ interface CaseStudyCardProps {
   services: string[];
   metrics: { value: string; label: string }[];
   excerpt: string;
+  heroImage?: string;
   index: number;
 }
 
@@ -22,6 +23,7 @@ export function CaseStudyCard({
   services,
   metrics,
   excerpt,
+  heroImage,
   index,
 }: CaseStudyCardProps) {
   return (
@@ -37,11 +39,15 @@ export function CaseStudyCard({
       >
         <div className="h-52 relative overflow-hidden">
           <div className="absolute inset-0 gradient-bg" />
+          {heroImage && (
+            <img
+              src={heroImage}
+              alt={`${client} case study`}
+              className="absolute inset-0 w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
+              loading="lazy"
+            />
+          )}
           <div className="absolute inset-0 bg-gradient-to-t from-[#060810]/80 via-transparent to-transparent" />
-          <div className="absolute inset-0 overflow-hidden pointer-events-none">
-            <div className="absolute top-1/2 left-1/4 w-[200px] h-[200px] rounded-full bg-accent/20 blur-[80px] group-hover:bg-accent/30 transition-all duration-700" />
-            <div className="absolute top-1/3 right-1/4 w-[150px] h-[150px] rounded-full bg-accent-hot/15 blur-[60px]" />
-          </div>
           <div className="absolute bottom-5 left-6 flex items-center gap-3">
             <span className="text-xs font-semibold text-white/90 bg-white/10 backdrop-blur-md px-4 py-1.5 rounded-full border border-white/10">
               {industry}

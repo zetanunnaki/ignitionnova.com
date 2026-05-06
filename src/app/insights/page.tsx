@@ -66,10 +66,13 @@ export default function InsightsPage() {
                   >
                     <div className="h-52 relative overflow-hidden">
                       <div className="absolute inset-0 gradient-bg" />
-                      <div className="absolute inset-0 bg-gradient-to-br from-accent/20 to-accent-hot/10" />
-                      <div className="absolute inset-0 overflow-hidden pointer-events-none">
-                        <div className="absolute top-1/2 left-1/3 w-[200px] h-[200px] rounded-full bg-accent/20 blur-[80px] group-hover:bg-accent/30 transition-all duration-700" />
-                      </div>
+                      <img
+                        src={`/images/insights/${post.slug}.png`}
+                        alt={`Cover image for ${fm.title}`}
+                        className="absolute inset-0 w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
+                        loading="lazy"
+                      />
+                      <div className="absolute inset-0 bg-gradient-to-t from-[var(--surface-darker)]/80 via-transparent to-transparent" />
                       <div className="absolute bottom-5 left-6">
                         <span
                           className={`text-[10px] font-semibold px-3 py-1.5 rounded-full backdrop-blur-sm ${

@@ -41,7 +41,13 @@ export default function HomePage() {
       <section className="relative min-h-screen flex items-center overflow-hidden">
         {/* Layered background */}
         <div className="absolute inset-0 bg-[#060810]" />
-        <div className="absolute inset-0 gradient-bg" />
+        <img
+          src="/images/hero.png"
+          alt=""
+          className="absolute inset-0 w-full h-full object-cover opacity-20"
+        />
+        <div className="absolute inset-0 bg-gradient-to-b from-[#060810]/60 via-transparent to-[#060810]/90" />
+        <div className="absolute inset-0 gradient-bg opacity-60" />
         <ParticleField />
 
         {/* Decorative orbs */}
