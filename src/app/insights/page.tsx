@@ -87,7 +87,6 @@ export default function InsightsPage() {
                           {new Date(fm.date).toLocaleDateString("en-US", {
                             year: "numeric",
                             month: "long",
-                            day: "numeric",
                           })}
                         </span>
                         <span className="w-1 h-1 bg-accent/40 rounded-full" />

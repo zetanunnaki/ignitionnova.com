@@ -96,7 +96,6 @@ export default async function InsightPage({ params }: Props) {
                 {new Date(fm.date).toLocaleDateString("en-US", {
                   year: "numeric",
                   month: "long",
-                  day: "numeric",
                 })}
               </span>
               <span className="w-1 h-1 bg-white/20 rounded-full" />
@@ -157,7 +156,6 @@ export default async function InsightPage({ params }: Props) {
                       <span>
                         {new Date(post.frontMatter.date).toLocaleDateString("en-US", {
                           month: "short",
-                          day: "numeric",
                           year: "numeric",
                         })}
                       </span>
