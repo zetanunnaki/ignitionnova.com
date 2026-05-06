@@ -3,8 +3,6 @@
   "tagline": "Your Trusted Partner for Digital Marketing Excellence",
   "description": "We guarantee to significantly increase your organic traffic and lead generation within 150 days.",
   "email": "hello@ignitionnova.com",
-  "phone": "+1 (800) 123-4665",
-  "address": "785 15th Street, Office 478, Berlin, DE 81566",
   "social": {
     "facebook": "https://facebook.com/ignitionnova",
     "twitter": "https://twitter.com/ignitionnova",
@@ -25,5 +23,5 @@
     { "value": "98%", "label": "Client Retention" },
     { "value": "12+", "label": "Years Experience" }
   ],
-  "formspreeEndpoint": "https://formspree.io/f/YOUR_FORM_ID"
+  "formspreeEndpoint": ""
 }

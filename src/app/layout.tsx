@@ -105,7 +105,6 @@ export default function RootLayout({
     <html lang="en" className={`${dmSans.variable} ${spaceGrotesk.variable}`}>
       <body className="min-h-screen flex flex-col antialiased">
         <StructuredData type="organization" />
-        <StructuredData type="local-business" />
         <SmoothScroll />
         <Header />
         <main className="flex-1">{children}</main>

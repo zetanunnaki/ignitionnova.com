@@ -9,15 +9,48 @@
       "High customer acquisition costs in competitive markets",
       "Complex buyer journeys with multiple stakeholders",
       "Need for product-led growth alongside paid channels",
-      "Low visibility in AI search results for product categories"
+      "Low visibility in AI search results for product categories",
+      "Difficulty differentiating in crowded product categories with overlapping feature sets",
+      "Churn-driven growth plateaus where paid acquisition cannot outpace lost revenue"
     ],
     "solutions": [
       "Product page SEO and feature-based keyword targeting",
       "GEO optimization for AI-powered software discovery",
       "Conversion rate optimization for trial-to-paid funnels",
-      "Technical content marketing and thought leadership"
+      "Technical content marketing and thought leadership",
+      "Competitive comparison landing pages targeting high-intent switcher keywords",
+      "Lifecycle email sequences aligned with product activation milestones to reduce churn"
     ],
-    "metrics": ["180% organic traffic growth", "3.2x trial signups", "45% lower CAC"]
+    "metrics": ["180% organic traffic growth", "3.2x trial signups", "45% lower CAC"],
+    "strategyOverview": "Our SaaS digital marketing strategy focuses on building a compounding organic acquisition engine that reduces reliance on paid channels over time. We begin with a full technical SEO audit of your product pages, documentation, and marketing site to eliminate crawl inefficiencies and structure content for AI-powered search engines. From there, we implement a programmatic SEO approach to capture long-tail feature comparison and integration keywords that your ideal customers search during the evaluation phase. GEO optimization ensures your product surfaces in AI-generated recommendations from ChatGPT, Perplexity, and Google AI Overviews. Every campaign is instrumented to track not just traffic and signups, but activation rates, trial-to-paid conversion, and customer lifetime value, letting us continuously optimize toward the channels that drive real business growth.",
+    "results": [
+      {
+        "metric": "+$148K/month in organic MRR contribution",
+        "description": "A B2B SaaS client saw organic search become their largest revenue channel within 8 months, contributing an additional $148K in monthly recurring revenue from SEO-sourced signups."
+      },
+      {
+        "metric": "62% increase in trial activation rate",
+        "description": "By optimizing the onboarding funnel and aligning ad messaging with product value, we increased trial-to-active-user conversion from 18% to 29% in one quarter."
+      },
+      {
+        "metric": "34 AI citation mentions in 6 months",
+        "description": "Our GEO strategy earned the client 34 brand mentions across ChatGPT and Perplexity responses for their core product category within the first six months of optimization."
+      }
+    ],
+    "faq": [
+      {
+        "question": "How long does it take for SaaS SEO to generate measurable results?",
+        "answer": "Most SaaS companies begin seeing meaningful organic traffic increases within three to four months, with significant pipeline impact by month six. Technical SEO fixes and content optimization deliver early wins, while programmatic content and link building create compounding growth over time. We set 90-day milestones so you can track progress against concrete benchmarks rather than waiting blindly for results."
+      },
+      {
+        "question": "Can you help with product-led growth alongside traditional marketing?",
+        "answer": "Absolutely. We specialize in aligning marketing strategy with product-led growth motions. This includes optimizing free trial and freemium signup flows, building in-product referral loops, creating SEO content around integration and use-case keywords, and ensuring that your marketing site clearly communicates product value. We work closely with product teams to make sure acquisition and activation are seamlessly connected."
+      },
+      {
+        "question": "What makes SaaS marketing different from other B2B marketing?",
+        "answer": "SaaS marketing requires a unique approach because the buyer journey involves self-service evaluation, often with multiple stakeholders, and revenue depends on retention, not just acquisition. We focus on metrics that matter for recurring revenue models: activation rates, trial conversion, net revenue retention, and customer lifetime value. Our strategies are built to reduce churn and increase expansion revenue alongside driving new signups."
+      }
+    ]
   },
   {
     "slug": "ecommerce-retail",
@@ -29,15 +62,48 @@
       "Declining ROAS on paid channels",
       "Poor product page performance and load times",
       "Low organic visibility against marketplace giants",
-      "Cart abandonment and checkout friction"
+      "Cart abandonment and checkout friction",
+      "Rising fulfillment and shipping costs squeezing already thin margins",
+      "Fragmented customer data across multiple sales channels making attribution difficult"
     ],
     "solutions": [
       "Product feed optimization for Google Shopping and Meta",
       "Shopify and headless commerce development",
       "eCommerce SEO with category and product page targeting",
-      "Email automation for abandoned cart recovery and retention"
+      "Email automation for abandoned cart recovery and retention",
+      "Unified data layer and server-side tracking for accurate cross-channel attribution",
+      "Dynamic remarketing campaigns that adjust creative and offers based on browse behavior and cart value"
     ],
-    "metrics": ["216% purchase increase", "2.4x ROAS improvement", "35% revenue growth"]
+    "metrics": ["216% purchase increase", "2.4x ROAS improvement", "35% revenue growth"],
+    "strategyOverview": "Our eCommerce strategy is built on the principle that sustainable online retail growth comes from owning your traffic channels rather than renting them. We start by auditing your entire digital storefront: site speed, product page structure, schema markup, and checkout flow. Product feed optimization ensures your Google Shopping and Meta catalog ads are structured to win auction visibility at lower CPCs. Simultaneously, our eCommerce SEO program targets high-intent category and product keywords, building the organic foundation that compounds over time. Retention is the final pillar: we implement lifecycle email and SMS flows including abandoned cart sequences, post-purchase upsells, win-back campaigns, and loyalty program integrations. By increasing customer lifetime value, every acquisition dollar works harder, giving you the margin to scale profitably even as ad costs rise.",
+    "results": [
+      {
+        "metric": "+38% revenue per session in 60 days",
+        "description": "After optimizing product pages, site speed, and checkout flow for a mid-market Shopify brand, revenue per session increased by 38% within the first 60 days."
+      },
+      {
+        "metric": "Organic revenue share grew from 14% to 42% of total",
+        "description": "Within 10 months, organic search grew from 14% to 42% of total revenue for a DTC home goods brand, dramatically reducing their dependence on paid advertising."
+      },
+      {
+        "metric": "$94K/month generated through lifecycle email program",
+        "description": "Our lifecycle email program generated an additional $94K in monthly revenue for a beauty eCommerce brand through abandoned cart, post-purchase, and win-back flows."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Do you work with Shopify, WooCommerce, or headless commerce platforms?",
+        "answer": "We work across all major eCommerce platforms including Shopify, Shopify Plus, WooCommerce, BigCommerce, and headless architectures built on frameworks like Next.js with Medusa or Saleor backends. Our team evaluates your current platform and recommends the best approach based on your catalog size, customization needs, and growth goals. We can also handle platform migrations when your current solution is limiting growth."
+      },
+      {
+        "question": "How do you improve ROAS on paid advertising for eCommerce?",
+        "answer": "We take a multi-layered approach to improving return on ad spend. First, we optimize your product feeds with enriched titles, detailed attributes, and competitive pricing signals. Then we restructure campaigns using segmentation strategies that allocate budget toward your highest-margin products. Finally, we implement proper conversion tracking and attribution so you can see the true cost of acquisition across channels and make data-driven budget decisions."
+      },
+      {
+        "question": "What eCommerce metrics do you prioritize beyond traffic?",
+        "answer": "Traffic alone does not build a profitable eCommerce business. We focus on revenue-driving metrics including average order value, conversion rate, revenue per session, customer lifetime value, and return on ad spend. Our reporting connects marketing activity directly to bottom-line impact, so you can see exactly which channels and campaigns generate profitable revenue versus those that simply drive visits without meaningful returns."
+      }
+    ]
   },
   {
     "slug": "health-beauty",
@@ -49,55 +115,260 @@
       "Strict advertising regulations on health claims",
       "High competition in organic search and paid ads",
       "Need for trust and social proof in purchasing decisions",
-      "Managing brand reputation across platforms"
+      "Managing brand reputation across platforms",
+      "Short product lifecycles requiring constant content refreshes and trend alignment",
+      "Customer acquisition costs rising faster than average order values in saturated categories"
     ],
     "solutions": [
       "Compliant content marketing that builds authority",
       "Social proof optimization and UGC strategy",
       "Influencer partnership and social media management",
-      "Conversion-optimized product pages with reviews integration"
+      "Conversion-optimized product pages with reviews integration",
+      "Trend-responsive content calendar aligned with seasonal and viral beauty moments",
+      "Subscription and loyalty program implementation to maximize customer lifetime value"
     ],
-    "metrics": ["8.6M Meta impressions", "125% purchase uplift", "3x social engagement"]
+    "metrics": ["8.6M Meta impressions", "125% purchase uplift", "3x social engagement"],
+    "strategyOverview": "Health and beauty brands operate in one of the most competitive and heavily regulated digital marketing environments. Our strategy is designed to build lasting brand authority while driving measurable sales growth across organic and paid channels. We begin with a compliant content strategy that positions your brand as a trusted resource, carefully navigating advertising regulations around health claims while still creating compelling, educational content that ranks and converts. Social proof is the currency of the health and beauty industry, so we build systems to generate, curate, and amplify user-generated content across your website, social channels, and advertising. On the performance marketing side, we structure campaigns around the full customer journey from awareness through repurchase, with lifecycle email flows and loyalty programs keeping customers coming back.",
+    "results": [
+      {
+        "metric": "+215% social-driven revenue",
+        "description": "A skincare brand saw a 215% increase in social-attributed revenue after we launched an integrated influencer and UGC strategy paired with Meta conversion campaigns."
+      },
+      {
+        "metric": "3.8x organic search traffic growth",
+        "description": "Our compliant content strategy grew organic traffic by 3.8x for a wellness supplement brand, targeting educational keywords that build authority while driving product discovery."
+      },
+      {
+        "metric": "Repeat purchase rate improved from 48% to 67%",
+        "description": "Post-purchase email flows and loyalty program integration increased the repeat purchase rate from 48% to 67% for a beauty DTC brand within six months."
+      }
+    ],
+    "faq": [
+      {
+        "question": "How do you handle advertising regulations for health and beauty products?",
+        "answer": "We have deep experience navigating FTC, FDA, and platform-specific advertising policies for health and beauty brands. Our content and ad copy goes through a compliance review process to ensure claims are properly substantiated and disclosures are included where required. We focus on building authority through educational content and social proof rather than making direct health claims, which protects your brand while still driving strong conversion performance."
+      },
+      {
+        "question": "What role does influencer marketing play in your beauty brand strategy?",
+        "answer": "Influencer marketing is a core pillar for beauty brands because consumers trust peer recommendations over brand advertising. We identify and vet influencers based on audience alignment, engagement quality, and content style rather than just follower count. Our programs include everything from micro-influencer seeding campaigns to long-term ambassador partnerships, with full tracking of influencer-driven traffic, conversions, and content performance across channels."
+      },
+      {
+        "question": "Can you help launch new product lines or enter new markets?",
+        "answer": "Yes, product launches are one of our strongest capabilities. We build launch strategies that include pre-launch audience building, influencer seeding, waitlist campaigns, and coordinated paid and organic pushes. For market expansion, we handle localized SEO, culturally adapted content, and region-specific ad strategies. Our goal is to create launch momentum that sustains beyond the initial push and builds long-term category visibility for your new products."
+      }
+    ]
   },
   {
-    "slug": "financial-services",
-    "title": "Financial Services",
+    "slug": "finance-banking",
+    "title": "Finance & Banking",
     "shortTitle": "Finance",
     "icon": "chart",
     "description": "Navigate regulated marketing with compliant, high-performing digital strategies for fintech, banking, insurance, and wealth management companies.",
     "challenges": [
-      "Strict regulatory compliance requirements (FCA, SEC)",
+      "Strict regulatory compliance requirements (FCA, SEC, FINRA)",
       "YMYL content scrutiny by search engines",
       "Long and complex buyer decision journeys",
-      "High cost per click in financial keywords"
+      "High cost per click for competitive financial keywords",
+      "Establishing E-E-A-T signals in an industry where trust is non-negotiable",
+      "Multi-product marketing requiring distinct strategies for lending, insurance, investment, and banking offerings"
     ],
     "solutions": [
       "E-E-A-T optimized content for YMYL categories",
       "GEO optimization for AI-powered financial advice queries",
       "LinkedIn advertising for B2B financial services",
-      "Conversion funnel optimization for lead qualification"
+      "Conversion funnel optimization for lead qualification",
+      "Author authority building with expert bios, credentials, and external citation strategies",
+      "Multi-product landing page architecture with dynamic personalization based on visitor intent signals"
     ],
-    "metrics": ["340% MQL increase", "45% CPA reduction", "2x organic traffic"]
+    "metrics": ["340% MQL increase", "45% CPA reduction", "2x organic traffic"],
+    "strategyOverview": "Financial services marketing demands a specialized approach that balances aggressive growth targets with strict regulatory compliance. Our strategy centers on building the E-E-A-T signals that Google and AI search engines require for YMYL financial content. We establish your brand as a credible authority through expert-authored content, proper credential display, transparent disclosures, and high-quality backlinks from trusted financial publications. For organic growth, we target the informational queries that future customers ask before they are ready to buy, then build conversion paths that nurture prospects through increasingly specific content. Paid media in financial services requires surgical precision due to high CPCs, so we structure campaigns to maximize quality score and relevance while maintaining full compliance with advertising regulations across every channel.",
+    "results": [
+      {
+        "metric": "340% increase in qualified lead volume",
+        "description": "A fintech lending platform saw qualified lead volume increase by 340% after we implemented an E-E-A-T content strategy paired with conversion funnel optimization and progressive lead qualification."
+      },
+      {
+        "metric": "45% reduction in cost per acquisition",
+        "description": "By restructuring Google Ads campaigns around quality score optimization and long-tail financial keywords, we reduced CPA by 45% while maintaining lead quality for a wealth management firm."
+      },
+      {
+        "metric": "28 AI search citations in 4 months",
+        "description": "Our GEO strategy earned a banking client 28 brand citations in AI-generated financial advice responses across major conversational search platforms within four months of launch."
+      }
+    ],
+    "faq": [
+      {
+        "question": "How do you ensure marketing compliance for regulated financial products?",
+        "answer": "Every piece of content and advertising we produce goes through a structured compliance review process. We maintain up-to-date knowledge of FCA, SEC, FINRA, and platform-specific advertising policies for financial products. Our team builds compliance checkpoints into the content workflow so regulatory issues are caught before publication. We also document all marketing materials with proper disclosures and substantiation records to support your compliance audit trail."
+      },
+      {
+        "question": "What is E-E-A-T and why does it matter for financial services SEO?",
+        "answer": "E-E-A-T stands for Experience, Expertise, Authoritativeness, and Trustworthiness. Google applies heightened scrutiny to financial content because it directly impacts people's economic wellbeing. To rank for financial keywords, your content must demonstrate real expertise through qualified authors, proper citations, accurate information, and trust signals like security certifications and regulatory credentials. We build these signals systematically across your entire web presence."
+      },
+      {
+        "question": "Can you help with both B2B and B2C financial services marketing?",
+        "answer": "Yes, we work with financial services companies across both segments. B2B financial marketing typically involves longer sales cycles, account-based targeting on LinkedIn, and content focused on business outcomes and ROI. B2C financial marketing focuses on education-driven content, trust building, and simplifying complex products for consumer audiences. We often run parallel strategies for companies that serve both segments, with distinct messaging, channels, and conversion paths."
+      }
+    ]
+  },
+  {
+    "slug": "real-estate",
+    "title": "Real Estate",
+    "shortTitle": "Real Estate",
+    "icon": "home",
+    "description": "Generate qualified buyer and seller leads for real estate agencies, brokerages, and property developers with hyperlocal SEO, targeted advertising, and IDX-integrated websites that convert browsers into clients.",
+    "challenges": [
+      "Intense competition from national portals like Zillow and Realtor.com",
+      "Hyperlocal search intent requiring neighborhood-level targeting",
+      "Long and emotionally complex buyer decision journeys",
+      "Seasonal market fluctuations affecting lead volume and quality",
+      "Difficulty tracking offline conversions from open houses and phone calls",
+      "Agent turnover creating inconsistency in lead follow-up and nurturing"
+    ],
+    "solutions": [
+      "Hyperlocal SEO targeting neighborhood, school district, and zip code searches",
+      "IDX-integrated websites with property search and lead capture functionality",
+      "Google and Meta advertising with geo-fenced audience targeting",
+      "Automated CRM workflows for lead nurturing across the full buying timeline",
+      "Community content strategy building authority around local market expertise",
+      "Virtual tour integration and video marketing for property showcases"
+    ],
+    "metrics": ["275% increase in organic leads", "4.2x return on ad spend", "52% lower cost per lead"],
+    "strategyOverview": "Real estate marketing success hinges on hyperlocal authority and speed to lead. We build neighborhood-focused content ecosystems that outrank national portals for the specific community searches that signal high buying intent. IDX-integrated websites capture and qualify leads automatically, feeding them into nurture sequences timed to the months-long buying cycle. Paid campaigns use geo-fencing and life-event targeting to reach people actively searching in your service areas. We connect offline touchpoints like open houses and phone calls back to digital attribution, giving brokerages clear visibility into which marketing channels generate closings, not just clicks. Our approach turns your digital presence into a predictable lead generation engine that compounds over time as local content authority grows.",
+    "results": [
+      {
+        "metric": "275% increase in organic seller leads within 10 months",
+        "description": "A regional brokerage grew organic seller lead submissions from 45 to 169 per month by building 200+ neighborhood guide pages, optimizing Google Business Profiles for each office, and implementing home valuation tools with lead capture."
+      },
+      {
+        "metric": "4.2x return on ad spend across Google and Meta",
+        "description": "A luxury real estate group achieved $4.20 in commission revenue for every $1 spent on advertising by combining high-intent Google search campaigns with Facebook lead ads targeting life-event audiences in premium zip codes."
+      },
+      {
+        "metric": "52% reduction in cost per qualified lead",
+        "description": "By implementing lead scoring, automated CRM follow-up within 5 minutes of inquiry, and retargeting sequences for property page visitors, a multi-office agency cut their cost per qualified appointment from $185 to $89."
+      }
+    ],
+    "faq": [
+      {
+        "question": "How can we compete with Zillow and Realtor.com in organic search?",
+        "answer": "National portals struggle with truly local content. We build deep neighborhood authority through community guides, school information, market reports, and hyperlocal blog content that targets the specific long-tail searches portals cannot cover at scale. Combined with optimized Google Business Profiles and local link building from community organizations, our clients consistently outrank portals for their target neighborhoods within six to nine months."
+      },
+      {
+        "question": "What type of website do we need to generate real estate leads?",
+        "answer": "You need a fast, mobile-first website with IDX property search integration, neighborhood landing pages, and multiple lead capture mechanisms including home valuation tools, saved search alerts, and property inquiry forms. We build custom real estate sites on modern frameworks that load in under two seconds, integrate with your MLS feed, and connect directly to your CRM for instant lead routing to the appropriate agent."
+      },
+      {
+        "question": "How do you track which marketing channels actually lead to closed deals?",
+        "answer": "We implement end-to-end attribution by connecting your website analytics with CRM data and call tracking. Every lead source is tagged from first touch through closing, allowing us to calculate true cost per closing by channel. Monthly reporting shows not just lead volume but pipeline value and closed revenue attributed to each campaign, giving your team the data needed to invest confidently in the highest-performing channels."
+      }
+    ]
+  },
+  {
+    "slug": "healthcare-medical",
+    "title": "Healthcare & Medical",
+    "shortTitle": "Healthcare",
+    "icon": "stethoscope",
+    "description": "Attract and retain patients for hospitals, clinics, dental practices, and telehealth platforms with HIPAA-compliant marketing, local SEO, and reputation management strategies built for healthcare.",
+    "challenges": [
+      "Strict HIPAA compliance requirements for marketing and patient data",
+      "YMYL content standards requiring medical accuracy and expert authorship",
+      "Complex local SEO for multi-location healthcare systems",
+      "Patient trust and reputation management across review platforms",
+      "Long patient acquisition journeys involving insurance and referral networks",
+      "Balancing patient education content with appointment conversion goals"
+    ],
+    "solutions": [
+      "HIPAA-compliant website design and marketing automation",
+      "Medical E-E-A-T content authored and reviewed by licensed professionals",
+      "Multi-location local SEO with Google Business Profile management",
+      "Patient review generation and reputation monitoring systems",
+      "Condition and procedure-specific landing pages with schema markup",
+      "Telehealth integration and online scheduling conversion optimization"
+    ],
+    "metrics": ["190% new patient growth", "3.8x Google Maps visibility", "41% lower patient acquisition cost"],
+    "strategyOverview": "Healthcare marketing requires a foundation of compliance, trust, and clinical accuracy. We build HIPAA-compliant digital ecosystems where every patient touchpoint meets privacy regulations and medical content standards. Our content strategy leverages physician-authored and peer-reviewed articles that satisfy Google's YMYL requirements while educating patients and driving appointment conversions. Local SEO ensures each practice location dominates its service area in Maps and organic results. Paid campaigns target condition-specific searches and new-mover audiences with messaging that builds confidence in your providers. Reputation management actively generates and monitors patient reviews, transforming satisfied patients into your most powerful marketing asset while maintaining compliance across all platforms.",
+    "results": [
+      {
+        "metric": "190% increase in new patient appointments over 8 months",
+        "description": "A multi-location orthopedic practice nearly tripled new patient volume by launching condition-specific landing pages for 40+ procedures, optimizing Google Business Profiles for each location, and implementing online scheduling with insurance verification."
+      },
+      {
+        "metric": "3.8x improvement in Google Maps visibility across service areas",
+        "description": "A dental group with 12 locations saw Maps impressions grow from 45,000 to 171,000 monthly through systematic GBP optimization, consistent NAP citations, localized content for each office, and a review generation program that added 800+ new reviews."
+      },
+      {
+        "metric": "41% reduction in patient acquisition cost",
+        "description": "A telehealth platform reduced cost per new patient from $210 to $124 by shifting from broad paid campaigns to SEO-driven content targeting specific symptoms and conditions, supported by retargeting sequences that re-engaged site visitors who didn't book."
+      }
+    ],
+    "faq": [
+      {
+        "question": "How do you ensure HIPAA compliance in healthcare marketing?",
+        "answer": "We implement HIPAA-compliant systems at every level: website forms use encrypted submission, analytics are configured to exclude protected health information, email marketing platforms carry BAA agreements, and retargeting audiences are built without using patient data. Our team maintains a compliance checklist covering all digital touchpoints, and we work with your compliance officer to ensure every campaign meets regulatory requirements before launch."
+      },
+      {
+        "question": "Can you help our practice rank for competitive medical keywords?",
+        "answer": "Yes, though medical SEO requires a specialized approach due to YMYL scrutiny. We build authority through physician-authored content with proper credentials and citations, earn links from medical directories and health publications, and implement comprehensive medical schema markup. Our condition and procedure pages are structured to satisfy both Google's quality raters and patient information needs, typically reaching first-page rankings within six to twelve months."
+      },
+      {
+        "question": "What is the best way to generate more patient reviews?",
+        "answer": "We implement automated review request workflows that send SMS and email prompts after appointments, timed for when patient satisfaction is highest. The system makes leaving a review effortless with direct links to your Google Business Profile. We also train front-desk staff on in-person review requests and set up monitoring dashboards so your team can respond to every review within 24 hours, building trust with prospective patients researching your practice."
+      }
+    ]
   },
   {
     "slug": "professional-services",
     "title": "Professional Services",
     "shortTitle": "Professional Services",
     "icon": "briefcase",
-    "description": "Generate high-quality leads for law firms, consulting agencies, accounting practices, and B2B service providers through authority-building SEO and targeted advertising.",
+    "description": "Generate high-quality leads for consulting agencies, accounting practices, and B2B service providers through authority-building SEO and targeted advertising.",
     "challenges": [
       "Long sales cycles and high-value client acquisition",
       "Establishing authority and trust in competitive markets",
       "Local search visibility for multi-location firms",
-      "Measuring marketing attribution for offline conversions"
+      "Measuring marketing attribution for offline conversions",
+      "Partner buy-in for marketing investment when results are not immediate",
+      "Differentiating commodity services in categories where clients perceive all providers as interchangeable"
     ],
     "solutions": [
       "Local SEO and Google Business Profile optimization",
       "Thought leadership content and E-E-A-T signals",
       "LinkedIn and Google Ads for high-intent lead generation",
-      "Attribution modeling connecting marketing to signed clients"
+      "Attribution modeling connecting marketing to signed clients",
+      "Proprietary methodology and case study content that differentiates your expertise from competitors",
+      "CRM integration and pipeline reporting that demonstrates marketing ROI to partners and stakeholders"
     ],
-    "metrics": ["300+ leads per week", "175% revenue increase", "4.5x pipeline growth"]
+    "metrics": ["300+ leads per week", "175% revenue increase", "4.5x pipeline growth"],
+    "strategyOverview": "Professional services firms face a unique marketing challenge: their most valuable clients often take months to convert, and the decision is driven by trust and perceived expertise rather than price. Our strategy is built to generate consistent, high-quality leads while establishing the authority signals that make prospects choose your firm over competitors. We start by building a robust organic presence around your highest-revenue practice areas, including thought leadership content that demonstrates real expertise and E-E-A-T signals Google requires. Paid media amplifies your organic authority with Google Ads targeting high-intent service keywords and LinkedIn campaigns for B2B lead generation. Most importantly, we connect marketing activity to revenue through CRM integration and closed-loop reporting, so partners can see the direct line from marketing investment to signed clients and billable revenue.",
+    "results": [
+      {
+        "metric": "+$2.4M annually in signed client revenue",
+        "description": "A mid-size law firm attributed $2.4M in new annual revenue directly to marketing-sourced leads after implementing our SEO and Google Ads strategy across three practice areas."
+      },
+      {
+        "metric": "73% qualified lead rate, up from 34%",
+        "description": "By refining targeting criteria and implementing progressive lead qualification forms, we increased the percentage of marketing-qualified leads from 34% to 73% for a consulting firm."
+      },
+      {
+        "metric": "Top 3 Google Maps rankings in 12 markets",
+        "description": "Our multi-location SEO strategy achieved top-three Google Maps rankings in 12 target markets for a national accounting firm within nine months of engagement."
+      }
+    ],
+    "faq": [
+      {
+        "question": "How do you generate leads for professional services with long sales cycles?",
+        "answer": "Long sales cycles require a multi-touch strategy that builds trust over time rather than pushing for immediate conversion. We create educational content that addresses prospect pain points at each stage of the decision process, run retargeting campaigns that maintain visibility throughout the evaluation period, and implement lead nurturing email sequences that deliver value consistently. Our attribution model tracks the full journey from first touch to signed engagement."
+      },
+      {
+        "question": "Do you specialize in any particular type of professional services firm?",
+        "answer": "We have deep experience across management consulting firms, accounting and CPA practices, architecture and engineering firms, and IT consulting companies. Each vertical has unique marketing dynamics and compliance requirements. Our team understands the specific keyword landscapes, competitive dynamics, and client acquisition patterns for each type of firm, which allows us to implement strategies that produce results faster than a generalist agency would."
+      },
+      {
+        "question": "How do you prove marketing ROI for partners and stakeholders?",
+        "answer": "We build closed-loop reporting that connects marketing activity directly to revenue outcomes. This includes CRM integration that tracks leads from first website visit through signed engagement, pipeline attribution reports that show marketing's contribution to revenue, and regular reporting dashboards accessible to partners and leadership. We present marketing performance in the language of business outcomes rather than vanity metrics like impressions or clicks."
+      }
+    ]
   },
   {
     "slug": "education",
@@ -109,15 +380,260 @@
       "Seasonal enrollment cycles and timing-sensitive campaigns",
       "Competing with large institutions and marketplace platforms",
       "Complex decision-making process involving multiple influencers",
-      "Need for strong organic presence in course discovery"
+      "Need for strong organic presence in course discovery",
+      "Demonstrating tangible career outcomes and ROI to justify tuition or course investment",
+      "Managing reputation and reviews on platforms like Google, Trustpilot, and course marketplaces"
     ],
     "solutions": [
       "Course page SEO and programmatic content strategy",
       "GEO optimization for AI-powered education recommendations",
       "PPC campaigns aligned with enrollment windows",
-      "Content marketing showcasing outcomes and student success"
+      "Content marketing showcasing outcomes and student success",
+      "Alumni success story campaigns with video testimonials and career outcome data",
+      "Review generation and reputation management across education platforms and directories"
     ],
-    "metrics": ["150% enrollment growth", "60% lower cost per enrollment", "2x organic leads"]
+    "metrics": ["150% enrollment growth", "60% lower cost per enrollment", "2x organic leads"],
+    "strategyOverview": "Education marketing requires a strategy that aligns with how students and professionals actually research and choose learning opportunities. We build comprehensive digital strategies that capture demand at every stage of the decision journey, from initial research through enrollment and beyond. Organic search is the foundation: programmatic content strategies create optimized pages for every course, program, and topic area. GEO optimization ensures your programs surface in AI-generated recommendations. Paid media is precisely timed around enrollment windows to maximize budget efficiency, with awareness campaigns months before deadlines and conversion-focused campaigns as deadlines approach. Lifecycle email nurturing guides prospects from inquiry to enrollment, with automated touchpoints that address common objections and showcase student outcomes at each stage.",
+    "results": [
+      {
+        "metric": "+150% enrollment volume year over year",
+        "description": "An online education platform saw enrollment volume increase by 150% year over year after implementing our SEO and enrollment funnel strategy across 45 course pages."
+      },
+      {
+        "metric": "60% reduction in cost per enrolled student",
+        "description": "By shifting budget from broad awareness campaigns to high-intent search and retargeting, we reduced cost per enrollment by 60% for a professional training provider."
+      },
+      {
+        "metric": "380 first-page keyword rankings in 8 months",
+        "description": "Our programmatic SEO strategy generated first-page rankings for over 380 course-related keywords within eight months for a continuing education institution."
+      }
+    ],
+    "faq": [
+      {
+        "question": "How do you handle seasonal enrollment cycles in your marketing strategy?",
+        "answer": "We build campaign calendars that align with your specific enrollment windows and application deadlines. Marketing intensity ramps up progressively: awareness campaigns run three to four months before deadlines, consideration-stage content intensifies two months out, and conversion-focused campaigns peak in the final enrollment window. Between cycles, we maintain organic visibility and nurture leads through email sequences so the pipeline stays warm year-round."
+      },
+      {
+        "question": "Can you help with both traditional education and online course platforms?",
+        "answer": "Absolutely. We work with traditional universities, community colleges, bootcamps, corporate training companies, and online course platforms. Each model has distinct marketing dynamics. Traditional institutions need local and national brand building and multi-stakeholder communication. Online platforms require scalable content strategies, marketplace optimization, and conversion funnels built for self-service enrollment. We adapt our strategy to fit your specific model and growth goals."
+      },
+      {
+        "question": "How important is content marketing for education institutions?",
+        "answer": "Content marketing is essential for education because the buyer journey is research-intensive and trust-dependent. Prospective students spend weeks or months researching options, reading reviews, and evaluating program quality. Educational content that demonstrates expertise, showcases student success stories, and provides genuine career guidance builds the trust that drives enrollment. We create content strategies that serve both SEO objectives and genuine student value."
+      }
+    ]
+  },
+  {
+    "slug": "hospitality-travel",
+    "title": "Hospitality & Travel",
+    "shortTitle": "Hospitality",
+    "icon": "plane",
+    "description": "Drive direct bookings and reduce OTA dependency for hotels, resorts, tour operators, and travel brands with SEO, metasearch advertising, and experience-driven content that inspires travelers to book direct.",
+    "challenges": [
+      "Heavy reliance on OTAs like Booking.com and Expedia eroding margins",
+      "Seasonal demand fluctuations requiring agile marketing budgets",
+      "Intense competition for destination and experience-based search terms",
+      "Managing online reputation across multiple review platforms",
+      "Complex attribution connecting online activity to actual bookings",
+      "Rising traveler expectations for personalized, mobile-first booking experiences"
+    ],
+    "solutions": [
+      "Direct booking website optimization with rate parity messaging and best-rate guarantees",
+      "Destination and experience SEO targeting trip-planning search queries",
+      "Google Hotel Ads and metasearch advertising for rate comparison visibility",
+      "Review management and reputation optimization across TripAdvisor, Google, and OTAs",
+      "Seasonal paid media campaigns with dynamic budget allocation tied to occupancy data",
+      "Email and SMS marketing for repeat guest loyalty and win-back campaigns"
+    ],
+    "metrics": ["185% increase in direct bookings", "38% reduction in OTA commissions", "3.4x ROAS on metasearch"],
+    "strategyOverview": "Hospitality marketing centers on one critical goal: shifting bookings from commission-heavy OTAs to your direct channels. We build high-converting direct booking websites that compete with OTA user experience, then drive qualified traffic through destination SEO, metasearch advertising, and retargeting campaigns that intercept travelers during their research phase. Content strategy focuses on the experience rather than the room, creating destination guides, local activity roundups, and seasonal travel content that captures top-of-funnel searches and positions your property as the local authority. Paid media budgets flex with seasonal demand patterns, scaling up during peak booking windows and pulling back during low seasons. Guest loyalty programs and post-stay email sequences turn one-time visitors into repeat direct bookers who never need an OTA again.",
+    "results": [
+      {
+        "metric": "185% increase in direct website bookings over 12 months",
+        "description": "A boutique hotel collection grew direct bookings from 22% to 48% of total reservations by redesigning their booking engine, launching Google Hotel Ads campaigns, and implementing a best-rate guarantee with email capture for price-comparison visitors."
+      },
+      {
+        "metric": "$420K saved annually in OTA commissions",
+        "description": "A resort group saved $420,000 annually in OTA commissions by shifting booking share to direct channels through metasearch advertising, loyalty program promotion, and SEO content targeting destination-specific searches."
+      },
+      {
+        "metric": "3.4x return on metasearch advertising investment",
+        "description": "A city-center hotel achieved $3.40 in booking revenue for every $1 spent on Google Hotel Ads and TripAdvisor Sponsored Placements by optimizing rate feeds, targeting high-intent booking dates, and implementing bid adjustments based on occupancy forecasts."
+      }
+    ],
+    "faq": [
+      {
+        "question": "How can we reduce our dependency on OTAs for bookings?",
+        "answer": "We build a direct booking strategy across three pillars: a conversion-optimized website with a seamless booking engine, metasearch advertising that puts your rates alongside OTAs in Google Hotel results, and SEO content that captures travelers during the research phase before they reach an OTA. Combined with a loyalty program and post-stay email marketing, most clients shift 15-25% of total bookings from OTA to direct channels within the first year."
+      },
+      {
+        "question": "What SEO strategy works for hotels and travel businesses?",
+        "answer": "Destination and experience-focused content outperforms room-type pages for organic traffic. We build comprehensive guides to local attractions, dining, events, and seasonal activities that capture travelers during trip planning. These pages link naturally to booking, positioning your property as the local expert. Combined with technical SEO for rate pages, review schema markup, and Google Business Profile optimization, this builds sustainable organic traffic year-round."
+      },
+      {
+        "question": "How do you manage seasonal budget fluctuations in hospitality marketing?",
+        "answer": "We build dynamic media plans with budget allocation tied to booking pace data and seasonal demand forecasts. Paid spend scales up 60-90 days before peak periods when travelers are actively researching, then shifts to lower-cost awareness tactics during off-peak months. Automated rules adjust bids based on real-time occupancy data, and retargeting pools built during high-traffic periods provide cost-effective audiences to activate when demand softens."
+      }
+    ]
+  },
+  {
+    "slug": "manufacturing-industrial",
+    "title": "Manufacturing & Industrial",
+    "shortTitle": "Manufacturing",
+    "icon": "factory",
+    "description": "Generate qualified B2B leads for manufacturers, industrial suppliers, and engineering firms with technical SEO, product catalog optimization, and account-based marketing strategies that reach procurement decision makers.",
+    "challenges": [
+      "Complex B2B buying committees with long procurement cycles",
+      "Technical product catalogs with thousands of SKUs requiring search visibility",
+      "Low digital marketing adoption compared to consumer-facing industries",
+      "Difficulty measuring marketing impact on high-value, offline-closed deals",
+      "International SEO challenges for global manufacturing operations",
+      "Legacy websites with poor mobile experience and outdated content management systems"
+    ],
+    "solutions": [
+      "Technical SEO for product specification pages and industrial catalogs",
+      "Account-based marketing targeting key procurement accounts on LinkedIn",
+      "Website modernization with headless CMS and product configurator integration",
+      "International SEO and hreflang implementation for multi-market operations",
+      "Content marketing around technical applications, case studies, and compliance standards",
+      "CRM integration and lead scoring connecting marketing activity to purchase orders"
+    ],
+    "metrics": ["220% increase in RFQ submissions", "3.6x qualified pipeline growth", "48% shorter sales cycle"],
+    "strategyOverview": "Manufacturing marketing bridges the gap between traditional relationship-driven sales and modern digital discovery. We start by transforming your product catalog into a search-optimized asset, ensuring every specification page, material datasheet, and application guide is structured for both organic search and AI-powered procurement tools. Account-based marketing targets the specific companies and job titles in your ideal customer profile through LinkedIn and programmatic display. Content strategy focuses on technical authority, publishing application engineering guides, compliance documentation, and industry analysis that position your company as the expert in your segment. Every lead is scored and routed through CRM integration, connecting marketing activity to RFQ submissions and purchase orders so your sales team can prioritize high-probability opportunities.",
+    "results": [
+      {
+        "metric": "220% increase in RFQ submissions over 9 months",
+        "description": "A precision machining company tripled monthly RFQ volume by rebuilding their website around material and capability search terms, launching product specification pages with downloadable CAD files, and implementing LinkedIn campaigns targeting procurement managers."
+      },
+      {
+        "metric": "3.6x growth in qualified sales pipeline value",
+        "description": "An industrial automation supplier grew quarterly pipeline from $2.8M to $10.1M through account-based marketing campaigns, technical content marketing around integration guides, and a website redesign that replaced their legacy catalog with a filterable, search-optimized product database."
+      },
+      {
+        "metric": "48% reduction in average sales cycle length",
+        "description": "By providing procurement teams with comprehensive technical content, comparison tools, and self-service specification builders, a building materials manufacturer shortened the average time from first inquiry to purchase order from 14 weeks to 7.3 weeks."
+      }
+    ],
+    "faq": [
+      {
+        "question": "How do you market products with highly technical specifications?",
+        "answer": "We treat technical specifications as SEO assets rather than afterthoughts. Each product page is optimized around the exact terms engineers and procurement professionals search, including material grades, tolerances, certifications, and application types. Downloadable CAD files, datasheets, and comparison tables serve dual purposes: they provide genuine utility to buyers while generating leads and building search authority for your most valuable product categories."
+      },
+      {
+        "question": "Can digital marketing really work for B2B industrial sales?",
+        "answer": "Research shows over 70% of B2B industrial buyers begin their procurement process with online search. Companies that invest in technical SEO and digital lead generation consistently outperform competitors relying solely on trade shows and relationship selling. We build systems that complement your existing sales process, warming leads through content before your team engages directly. Most industrial clients see measurable pipeline growth within four to six months."
+      },
+      {
+        "question": "How do you handle international SEO for manufacturers selling globally?",
+        "answer": "We implement proper hreflang architecture, country-specific content, and international site structures that ensure the right products and specifications appear in the right markets. This includes localized keyword research for each target market, translation quality assurance, and technical implementation of multi-currency and multi-language catalog pages. Our approach ensures compliance with local regulations while maintaining brand consistency across all regional properties."
+      }
+    ]
+  },
+  {
+    "slug": "legal",
+    "title": "Legal Services",
+    "shortTitle": "Legal",
+    "icon": "scale",
+    "description": "Generate high-value client leads for law firms, solo practitioners, and legal service providers with local SEO, reputation management, and PPC campaigns targeting people actively seeking legal representation.",
+    "challenges": [
+      "Extremely high cost per click for competitive legal keywords ($100-$500+)",
+      "Ethical advertising restrictions varying by state bar association",
+      "Building trust online for sensitive legal matters",
+      "Local competition from well-funded personal injury and trial firms",
+      "Long case evaluation periods requiring sustained lead nurturing",
+      "Managing attorney profiles and credentials across legal directories"
+    ],
+    "solutions": [
+      "Practice area landing pages optimized for high-intent legal searches",
+      "Local SEO and Google Business Profile management for each office location",
+      "Google Ads with call tracking and case-type segmentation",
+      "Attorney profile optimization across Avvo, Martindale, and legal directories",
+      "Content marketing addressing common legal questions with E-E-A-T authority",
+      "Intake form optimization and lead qualification automation for case screening"
+    ],
+    "metrics": ["310% increase in case inquiries", "55% lower cost per retained client", "4.1x organic traffic growth"],
+    "strategyOverview": "Legal marketing demands precision targeting and ethical compliance across every channel. We build practice area authority through comprehensive legal content that answers the exact questions potential clients search during their moment of need. Local SEO ensures your firm dominates the geographic areas you serve, while paid campaigns target high-intent searches with ad copy that complies with bar association advertising rules. Attorney profiles are optimized across all major legal directories to build trust signals that search engines and prospective clients both value. Lead qualification automation screens inquiries before they reach your attorneys, ensuring intake teams spend time on cases that match your firm's practice areas and fee structures. Every strategy is designed to deliver retained clients, not just form fills.",
+    "results": [
+      {
+        "metric": "310% increase in qualified case inquiries over 10 months",
+        "description": "A mid-size personal injury firm grew monthly case inquiries from 85 to 348 by launching 60+ practice area pages targeting specific injury types, optimizing Google Business Profiles for three offices, and running call-focused Google Ads campaigns."
+      },
+      {
+        "metric": "55% reduction in cost per retained client",
+        "description": "A family law practice cut cost per retained client from $1,800 to $810 by shifting from broad keyword targeting to long-tail legal queries, implementing intake qualification forms, and building an organic content pipeline that reduced paid search dependency."
+      },
+      {
+        "metric": "4.1x growth in organic search traffic within 12 months",
+        "description": "A criminal defense firm quadrupled organic traffic by publishing comprehensive guides to charges, penalties, and defense strategies for every practice area, earning backlinks from local news coverage, and implementing FAQ schema for featured snippets."
+      }
+    ],
+    "faq": [
+      {
+        "question": "How do you manage the high cost of legal PPC advertising?",
+        "answer": "We reduce wasted spend through precise keyword targeting, negative keyword management, and ad scheduling aligned with when potential clients actually call. Case-type segmentation allows bid optimization based on the value of different practice areas. Call tracking and intake data feed back into campaign optimization, allowing us to bid based on retained clients rather than just clicks or form fills, ensuring budget flows to the highest-ROI cases."
+      },
+      {
+        "question": "Can you ensure our advertising complies with bar association rules?",
+        "answer": "Yes, we maintain advertising compliance checklists for each state bar's specific requirements. All ad copy, landing pages, and content are reviewed against applicable rules regarding testimonials, guarantees, specialization claims, and required disclaimers. We work with your firm's managing partner to establish approved messaging frameworks before any campaign launches, and we monitor published content for ongoing compliance with evolving regulations."
+      },
+      {
+        "question": "What content strategy works best for law firm SEO?",
+        "answer": "Legal content must demonstrate deep expertise on specific practice areas while remaining accessible to non-lawyers. We create comprehensive guides that walk potential clients through their legal situation, from understanding charges or claims to knowing what to expect during the legal process. Each piece is authored with attorney credentials, cites relevant statutes, and targets the exact phrases people type when facing legal issues. This E-E-A-T approach builds both rankings and trust."
+      }
+    ]
+  },
+  {
+    "slug": "automotive",
+    "title": "Automotive",
+    "shortTitle": "Automotive",
+    "icon": "car",
+    "description": "Drive showroom traffic and online leads for dealerships, auto service centers, and automotive brands with inventory-based SEO, dynamic advertising, and reputation management that puts you ahead of the competition.",
+    "challenges": [
+      "Shifting consumer behavior toward online research and digital retailing",
+      "Inventory fluctuations affecting advertising and SEO page strategies",
+      "Intense local competition among dealerships for branded and model searches",
+      "Managing reputation across Google, DealerRater, and social platforms",
+      "Complex attribution connecting online activity to showroom visits and sales",
+      "Adapting to the growing electric vehicle market and changing search trends"
+    ],
+    "solutions": [
+      "Vehicle detail page SEO with dynamic inventory structured data",
+      "Google Vehicle Listing Ads and Performance Max for automotive",
+      "Reputation management across dealership review platforms",
+      "Local SEO for service department and parts searches",
+      "Dynamic inventory advertising on Meta and Google tied to real-time stock",
+      "EV education content and search optimization for emerging automotive queries"
+    ],
+    "metrics": ["240% increase in online leads", "3.8x showroom visit attribution", "46% lower cost per vehicle sold"],
+    "strategyOverview": "Automotive marketing has fundamentally shifted online, with over 80% of car buyers conducting extensive digital research before visiting a dealership. We build digital strategies that capture buyers throughout this research journey, from initial brand and model comparisons to local inventory searches. Vehicle detail pages are dynamically optimized with structured data that feeds Google Vehicle Listing Ads and organic search. Service department marketing runs as a separate profit center with local SEO and appointment booking optimization. Reputation management actively generates and responds to reviews across automotive-specific platforms. Our attribution model connects digital touchpoints to showroom visits and closed sales using CRM integration and store visit tracking, proving the direct impact of digital marketing on your bottom line.",
+    "results": [
+      {
+        "metric": "240% increase in online lead submissions within 8 months",
+        "description": "A multi-franchise dealership group grew monthly online leads from 320 to 1,088 by rebuilding VDP pages with structured data, launching Google Vehicle Listing Ads tied to live inventory feeds, and implementing trade-in value tools as lead capture mechanisms."
+      },
+      {
+        "metric": "3.8x improvement in attributed showroom visits",
+        "description": "A luxury dealership connected Google store visit tracking and CRM data to prove that digital campaigns drove 3.8x more showroom visits than previously attributed, unlocking additional marketing budget and justifying a 60% increase in digital investment."
+      },
+      {
+        "metric": "46% reduction in cost per vehicle sold through digital",
+        "description": "A used car dealer reduced digital cost per sale from $680 to $367 by restructuring campaigns around high-intent model and price-range searches, implementing dynamic inventory retargeting, and building buying guides that captured early-stage shoppers."
+      }
+    ],
+    "faq": [
+      {
+        "question": "How do you handle SEO for constantly changing vehicle inventory?",
+        "answer": "We implement dynamic VDP strategies where pages are automatically generated and optimized based on your live inventory feed. Structured data updates in real time so Google always reflects current stock. When vehicles sell, pages redirect to similar inventory rather than returning 404 errors. This approach ensures you maintain search visibility regardless of how frequently inventory turns over, while building long-term authority for model and trim-level searches."
+      },
+      {
+        "question": "Can you help our service department generate more appointments?",
+        "answer": "Service department marketing is one of the highest-ROI opportunities for dealerships. We optimize local SEO for maintenance and repair searches, launch Google Ads campaigns targeting service-specific keywords, and implement online scheduling with service menu pricing. Email and SMS campaigns to your existing customer database drive retention and upsells. Most dealerships see a 40-60% increase in service appointments within the first four months of our program."
+      },
+      {
+        "question": "How should we prepare our marketing for the shift to electric vehicles?",
+        "answer": "We build EV-readiness into your content and advertising strategy now, before competition intensifies. This includes educational content around EV ownership costs, charging infrastructure, and model comparisons targeting rapidly growing search volume for electric vehicle queries. Paid campaigns target EV-interested audiences identified through search behavior and in-market signals, positioning your dealership as the local authority on electric vehicles before competitors claim that position."
+      }
+    ]
   },
   {
     "slug": "food-beverage",
@@ -129,174 +645,153 @@
       "Highly competitive local and national markets",
       "Short product consideration cycles requiring impulse triggers",
       "Managing multi-location or franchise marketing",
-      "Seasonal demand fluctuations"
+      "Seasonal demand fluctuations",
+      "Maintaining brand consistency across franchise locations while allowing local customization",
+      "Rising third-party delivery platform fees eroding margins on digital orders"
     ],
     "solutions": [
       "Local SEO for multi-location restaurant and retail brands",
       "Social media management with food-focused visual content",
       "Meta and Google Ads optimized for local awareness and delivery",
-      "Email marketing for promotions, loyalty, and repeat purchases"
+      "Email marketing for promotions, loyalty, and repeat purchases",
+      "Direct ordering channel development to reduce third-party delivery platform dependence",
+      "Franchise marketing playbooks with templated campaigns that maintain brand consistency at scale"
     ],
-    "metrics": ["66% YoY increase", "3x local visibility", "2.8x social following growth"]
+    "metrics": ["66% YoY increase", "3x local visibility", "2.8x social following growth"],
+    "strategyOverview": "Food and beverage marketing thrives on visual appeal, local relevance, and timely promotion. Our strategy is built to drive both immediate foot traffic and long-term brand loyalty for restaurants, CPG brands, and food service companies. We start with local SEO dominance, ensuring every location ranks prominently for near-me searches, delivery queries, and cuisine-specific keywords. Social media is the heartbeat of food and beverage marketing, so we create scroll-stopping visual content and manage community engagement that builds loyal followings. For multi-location and franchise brands, we build scalable marketing systems that maintain brand consistency while allowing local relevance, with each location getting its own optimized Google Business Profile, location-specific landing pages, and geo-targeted advertising campaigns.",
+    "results": [
+      {
+        "metric": "+84% direct online orders",
+        "description": "A restaurant group saw direct online orders increase by 84% after we launched location-specific landing pages, Google Ads campaigns, and a first-party ordering integration."
+      },
+      {
+        "metric": "$38K/month in trackable social media revenue",
+        "description": "Our social media strategy generated $38K in monthly trackable revenue for a craft beverage brand through a combination of organic content, influencer partnerships, and Meta conversion ads."
+      },
+      {
+        "metric": "Loyalty program grew from 2,400 to 12,000 members",
+        "description": "We grew a fast-casual chain's loyalty program from 2,400 to over 12,000 active members in six months through email capture campaigns, in-store promotions, and targeted social advertising."
+      }
+    ],
+    "faq": [
+      {
+        "question": "How do you handle marketing for multi-location restaurant brands?",
+        "answer": "We build scalable local marketing systems where each location has its own optimized Google Business Profile, location page, and geo-targeted ad campaigns. A centralized content calendar maintains brand consistency while allowing for local menu variations and promotions. Location-level reporting lets you compare performance across markets and allocate budget toward your highest-opportunity locations. This delivers local relevance without sacrificing centralized efficiency."
+      },
+      {
+        "question": "Can you help reduce our dependence on third-party delivery platforms?",
+        "answer": "Yes, reducing third-party platform fees is a major priority for most restaurant brands we work with. We build and promote direct ordering channels through your own website and app, run Google Ads campaigns that capture delivery-intent searches, and create email and SMS marketing programs that incentivize direct orders with exclusive promotions. Most clients see a meaningful shift in order mix within three to four months of launching a direct ordering strategy."
+      },
+      {
+        "question": "What social media platforms work best for food and beverage brands?",
+        "answer": "Instagram and TikTok are typically the highest-performing platforms for food and beverage because of their visual and video-first formats. Facebook remains valuable for local restaurant marketing and community engagement. For CPG food brands, Pinterest drives strong product discovery traffic. We evaluate your specific audience, product type, and goals to build a platform strategy that focuses resources where they generate the strongest return rather than spreading effort too thin."
+      }
+    ]
   },
   {
-    "slug": "home-garden",
-    "title": "Home & Garden",
-    "shortTitle": "Home & Garden",
-    "icon": "home",
-    "description": "Grow your home and garden brand with SEO-driven product discovery, seasonal content strategies, and eCommerce optimization that turns browsers into buyers.",
+    "slug": "nonprofit",
+    "title": "Nonprofit & NGO",
+    "shortTitle": "Nonprofit",
+    "icon": "heart-handshake",
+    "description": "Amplify your mission, grow donor bases, and increase volunteer engagement for nonprofits and NGOs with Google Ad Grants management, storytelling-driven content, and fundraising campaign optimization.",
     "challenges": [
-      "Seasonal demand requiring flexible marketing strategies",
-      "High competition from marketplace platforms (Amazon, Wayfair)",
-      "Visual-first purchase decisions requiring strong imagery",
-      "Long consideration periods for high-ticket items"
+      "Limited marketing budgets competing against well-funded for-profit advertisers",
+      "Difficulty measuring marketing ROI beyond direct donation attribution",
+      "Donor fatigue and declining email engagement rates",
+      "Underutilized Google Ad Grant accounts leaving $10,000/month on the table",
+      "Balancing mission-driven storytelling with clear calls to action",
+      "Volunteer recruitment and retention requiring separate marketing funnels"
     ],
     "solutions": [
-      "Seasonal SEO and content planning for peak demand",
-      "Product feed optimization for Google Shopping",
-      "Pinterest and Instagram advertising for visual discovery",
-      "Email automation for abandoned carts and back-in-stock alerts"
+      "Google Ad Grants management maximizing $10,000/month in free advertising",
+      "Impact storytelling content strategy for donor cultivation and awareness",
+      "Donation page optimization and recurring giving program development",
+      "Email segmentation and personalized stewardship sequences for donor retention",
+      "Volunteer recruitment campaigns with dedicated landing pages and application funnels",
+      "Social media advocacy programs amplifying supporter-generated content"
     ],
-    "metrics": ["180% organic traffic growth", "2.1x ROAS", "45% repeat purchase rate"]
+    "metrics": ["340% increase in online donations", "92% Google Ad Grant utilization", "2.6x volunteer applications"],
+    "strategyOverview": "Nonprofit marketing requires maximizing impact from every dollar while maintaining the authentic, mission-driven voice that inspires action. We start by fully activating Google Ad Grants, ensuring your organization captures the full $10,000 monthly allocation through compliant, high-performing campaigns. Content strategy centers on impact storytelling that connects donors emotionally to outcomes, moving beyond statistics to share the human stories behind your work. Donation pages are optimized for conversion with streamlined forms, suggested amounts, and recurring giving options that build sustainable revenue. Email marketing shifts from broadcast appeals to segmented journeys that steward donors based on their giving history, interests, and engagement level. Every strategy is designed to turn supporters into advocates who amplify your mission through their own networks.",
+    "results": [
+      {
+        "metric": "340% increase in online donation revenue over 12 months",
+        "description": "An environmental nonprofit grew monthly online donations from $18,000 to $79,200 by redesigning donation pages with impact-level giving options, launching Google Ad Grants campaigns, and implementing a year-end giving email series with matching gift messaging."
+      },
+      {
+        "metric": "92% utilization of $10,000 monthly Google Ad Grant",
+        "description": "A youth education charity went from spending $1,200 of their $10,000 monthly Ad Grant to consistently utilizing $9,200+ by expanding keyword coverage, building dedicated landing pages for grant campaigns, and maintaining quality score thresholds required for compliance."
+      },
+      {
+        "metric": "2.6x increase in volunteer applications through digital channels",
+        "description": "A community health organization grew monthly volunteer sign-ups from 34 to 88 by creating role-specific landing pages, running targeted Meta campaigns in service area zip codes, and streamlining the application process from a 12-field form to a 4-field initial inquiry."
+      }
+    ],
+    "faq": [
+      {
+        "question": "How does the Google Ad Grants program work and can you help us maximize it?",
+        "answer": "Google Ad Grants provides eligible nonprofits with $10,000 per month in free Google Search advertising. However, strict compliance requirements around click-through rates, quality scores, and conversion tracking mean most nonprofits utilize less than 30% of their allocation. We manage the full program from application through ongoing optimization, building campaigns that meet Google's thresholds while driving meaningful traffic for donor acquisition, volunteer recruitment, and awareness."
+      },
+      {
+        "question": "How can we increase recurring donations through digital marketing?",
+        "answer": "Recurring giving is built through trust, convenience, and ongoing engagement. We optimize donation pages with prominent monthly giving options and impact-anchored suggested amounts. Post-donation email sequences demonstrate ongoing impact, reinforcing the value of continued support. Upgrade campaigns target one-time donors with personalized asks based on their giving history. Our clients typically convert 15-25% of new one-time donors to recurring within six months."
+      },
+      {
+        "question": "What is the best way to tell our impact story for fundraising?",
+        "answer": "The most effective nonprofit content combines individual human stories with organizational impact data. We create content frameworks that follow specific beneficiaries through their journey, connecting their experience to donor contributions in a tangible way. Video testimonials, photo essays, and long-form impact reports serve different channels and audience segments. Every piece includes a clear call to action that makes giving feel like the natural next step after learning about your work."
+      }
+    ]
   },
   {
-    "slug": "plumbing",
-    "title": "Plumbing Services",
-    "shortTitle": "Plumbing",
-    "icon": "wrench",
-    "description": "Fill your plumbing business pipeline with local SEO, Google Ads, and reputation management that puts your company at the top when homeowners need emergency service.",
+    "slug": "energy-utilities",
+    "title": "Energy & Utilities",
+    "shortTitle": "Energy",
+    "icon": "bolt",
+    "description": "Generate qualified leads and build market authority for energy companies, utility providers, solar installers, and clean energy brands with technical SEO, local lead generation, and educational content strategies.",
     "challenges": [
-      "Intense local competition from large franchises",
-      "Emergency-driven search behavior requiring instant visibility",
-      "Managing reviews and reputation across platforms",
-      "Tracking phone call leads and offline conversions"
+      "Complex regulatory environments varying by state and municipality",
+      "Long sales cycles for commercial and residential energy installations",
+      "Consumer confusion around incentives, tax credits, and financing options",
+      "Intense local competition among solar installers and energy auditors",
+      "Building trust in an industry with historical reputation challenges",
+      "Rapidly evolving technology and policy landscape affecting marketing messaging"
     ],
     "solutions": [
-      "Google Business Profile and local SEO domination",
-      "Google Local Service Ads (LSAs) management",
-      "Review generation and reputation management systems",
-      "Call tracking and lead attribution setup"
+      "Technical SEO targeting energy cost savings and incentive-related searches",
+      "Local SEO and Google Business Profile optimization for service area coverage",
+      "Educational content hubs explaining incentives, technology, and ROI calculations",
+      "Google Ads and Meta campaigns targeting homeowners with high energy costs",
+      "Solar and energy calculator tools as lead generation mechanisms",
+      "Review management and case study content building installation trust"
     ],
-    "metrics": ["5x Google Maps visibility", "300% more calls", "45% lower cost per lead"]
-  },
-  {
-    "slug": "hvac",
-    "title": "HVAC Services",
-    "shortTitle": "HVAC",
-    "icon": "thermometer",
-    "description": "Keep your HVAC business booked year-round with seasonal digital marketing strategies, local SEO dominance, and lead generation systems built for heating and cooling companies.",
-    "challenges": [
-      "Extreme seasonality in demand (summer AC, winter heating)",
-      "High cost per click for competitive HVAC keywords",
-      "Need for 24/7 emergency service visibility",
-      "Balancing residential and commercial lead generation"
+    "metrics": ["265% increase in qualified leads", "3.2x organic traffic growth", "42% lower cost per installation lead"],
+    "strategyOverview": "Energy and utilities marketing requires bridging the knowledge gap between complex technology and consumer understanding. We build educational content ecosystems that demystify solar, storage, efficiency, and clean energy options while positioning your company as the trusted local authority. SEO strategy targets high-intent searches around energy costs, incentives, and installation that signal genuine buying interest. Calculator tools and savings estimators serve as lead generation mechanisms that qualify prospects by capturing property details and energy usage before your sales team engages. Paid campaigns target homeowners with high utility costs using income, home value, and energy consumption signals. Local SEO ensures your company dominates service area searches, while review management and installation case studies build the social proof needed to overcome industry trust barriers.",
+    "results": [
+      {
+        "metric": "265% increase in qualified installation leads over 10 months",
+        "description": "A regional solar installer grew monthly qualified leads from 120 to 438 by building a savings calculator tool, launching location-specific landing pages for each service area, and running Google Ads targeting homeowners in high-utility-cost zip codes."
+      },
+      {
+        "metric": "3.2x growth in organic search traffic within 9 months",
+        "description": "A clean energy company tripled organic traffic by creating a comprehensive resource hub covering federal and state incentives, technology comparisons, and installation process guides, earning featured snippets for 40+ high-volume energy savings queries."
+      },
+      {
+        "metric": "42% reduction in cost per qualified installation lead",
+        "description": "An energy efficiency company cut cost per qualified lead from $145 to $84 by implementing savings calculator pre-qualification, refining Google Ads targeting to homeowner demographics with high energy spend, and building a referral program generating 30% of new leads."
+      }
     ],
-    "solutions": [
-      "Seasonal PPC campaigns aligned with weather patterns",
-      "Local SEO targeting service area neighborhoods",
-      "Google LSAs and Maps optimization for emergency searches",
-      "Website speed and conversion optimization for mobile users"
-    ],
-    "metrics": ["4x seasonal lead volume", "250% organic growth", "38% lower CPA"]
-  },
-  {
-    "slug": "electrician",
-    "title": "Electrical Services",
-    "shortTitle": "Electricians",
-    "icon": "zap",
-    "description": "Power up your electrical business with local search dominance, targeted advertising, and a high-converting website that turns searches into booked jobs.",
-    "challenges": [
-      "Standing out against large franchise competitors",
-      "Emergency service searches requiring top-of-page visibility",
-      "Building trust online for in-home service providers",
-      "Limited marketing budgets for small business owners"
-    ],
-    "solutions": [
-      "Hyper-local SEO for neighborhood-level targeting",
-      "Google Ads with call extensions for emergency services",
-      "Trust-building website with licensing, insurance, and reviews",
-      "Automated follow-up and review request systems"
-    ],
-    "metrics": ["3x website leads", "200% more booked jobs", "5-star review growth"]
-  },
-  {
-    "slug": "roofing",
-    "title": "Roofing Services",
-    "shortTitle": "Roofing",
-    "icon": "home",
-    "description": "Generate high-value roofing leads with storm-chasing PPC, local SEO, and a website that builds trust and converts homeowners into signed contracts.",
-    "challenges": [
-      "Extremely high CPC for roofing keywords ($50-$100+)",
-      "Weather and storm-dependent demand spikes",
-      "Long sales cycles for large residential projects",
-      "Insurance claim and restoration marketing complexity"
-    ],
-    "solutions": [
-      "Weather-triggered PPC campaigns for storm damage",
-      "Local SEO and content targeting roof replacement keywords",
-      "High-trust website with gallery, reviews, and financing info",
-      "Lead nurturing automation for long consideration periods"
-    ],
-    "metrics": ["10x ROI on ad spend", "180% more estimates", "60% close rate improvement"]
-  },
-  {
-    "slug": "landscaping",
-    "title": "Landscaping & Lawn Care",
-    "shortTitle": "Landscaping",
-    "icon": "tree",
-    "description": "Grow your landscaping business with seasonal marketing strategies, local SEO, and a portfolio-driven website that showcases your best work and books new clients.",
-    "challenges": [
-      "Heavy seasonal demand requiring year-round marketing planning",
-      "Visual-first decision making requiring strong before/after content",
-      "Competition from national lawn care franchises",
-      "Managing recurring service vs. one-time project marketing"
-    ],
-    "solutions": [
-      "Seasonal content calendar and local SEO strategy",
-      "Portfolio-driven website with before/after galleries",
-      "Nextdoor and social media advertising for neighborhood targeting",
-      "Email automation for recurring service reminders and upsells"
-    ],
-    "metrics": ["4x spring lead volume", "200% recurring revenue", "3.5x social leads"]
-  },
-  {
-    "slug": "cleaning-services",
-    "title": "Cleaning Services",
-    "shortTitle": "Cleaning",
-    "icon": "sparkles",
-    "description": "Scale your residential or commercial cleaning business with local SEO, Google Ads, and booking-optimized websites that fill your schedule with recurring clients.",
-    "challenges": [
-      "Low barriers to entry creating intense local competition",
-      "Price-sensitive customers comparison shopping online",
-      "Difficulty building recurring revenue vs. one-time bookings",
-      "Managing service area expansion across neighborhoods"
-    ],
-    "solutions": [
-      "Local SEO targeting neighborhood and zip code searches",
-      "Google Ads with instant quote and booking CTAs",
-      "Online booking integration and conversion optimization",
-      "Referral program automation and review generation"
-    ],
-    "metrics": ["350% more bookings", "3x recurring clients", "55% lower acquisition cost"]
-  },
-  {
-    "slug": "pest-control",
-    "title": "Pest Control Services",
-    "shortTitle": "Pest Control",
-    "icon": "shield",
-    "description": "Eliminate the competition and dominate local search for pest control services with emergency-focused PPC, seasonal SEO, and trust-building digital strategies.",
-    "challenges": [
-      "Emergency-driven search behavior requiring instant visibility",
-      "Seasonal pest cycles affecting demand patterns",
-      "Consumer trust concerns with chemical treatments",
-      "Multi-service marketing (termites, rodents, insects, wildlife)"
-    ],
-    "solutions": [
-      "Emergency PPC campaigns with click-to-call and LSAs",
-      "Seasonal content strategy aligned with pest activity cycles",
-      "Trust signals: licensing, eco-friendly options, and guarantees",
-      "Service-specific landing pages for each pest type"
-    ],
-    "metrics": ["4x emergency call volume", "200% organic growth", "40% lower CPA"]
+    "faq": [
+      {
+        "question": "How do you generate leads for solar and energy installation companies?",
+        "answer": "We use a multi-channel approach combining local SEO, paid search, and educational content. Savings calculator tools capture qualified leads by collecting property and energy usage details before connecting prospects with your sales team. Location-specific landing pages target each service area, while Google Ads campaigns focus on high-intent searches around energy costs and solar incentives. Referral programs and review generation turn completed installations into your most cost-effective lead source."
+      },
+      {
+        "question": "How do you keep marketing content current with changing energy incentives?",
+        "answer": "We maintain a regulatory monitoring process that tracks federal, state, and local incentive changes on a monthly basis. Content is audited quarterly with updates published within two weeks of significant policy changes. Our team builds modular content structures that allow incentive details to be updated independently of broader educational content, ensuring accuracy without requiring complete page rewrites every time a tax credit or eligibility threshold changes."
+      },
+      {
+        "question": "Can you help us build trust with homeowners skeptical of energy companies?",
+        "answer": "Trust-building is central to our energy marketing approach. We implement review generation systems that showcase verified customer experiences, create detailed case studies with real savings data and installation photos, and build transparency into every touchpoint from pricing pages to contract explanations. Educational content that honestly addresses common concerns positions your company as an advisor rather than a salesperson, which consistently converts skeptical prospects at higher rates."
+      }
+    ]
   }
 ]

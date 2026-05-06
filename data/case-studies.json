@@ -1,8 +1,8 @@
 [
   {
-    "slug": "techscale-lead-generation",
-    "title": "How TechScale Increased MQLs by 340% in 6 Months",
-    "client": "TechScale Inc.",
+    "slug": "clarion-software-lead-generation",
+    "title": "How Clarion Software Increased MQLs by 340% in 6 Months",
+    "client": "Clarion Software",
     "industry": "SaaS / Technology",
     "services": ["Technical SEO", "CRO", "Content Strategy"],
     "heroImage": "/images/case-studies/techscale-hero.jpg",
@@ -12,12 +12,12 @@
       { "value": "2.1x", "label": "Pipeline Velocity" },
       { "value": "98", "label": "Lighthouse Score" }
     ],
-    "excerpt": "A comprehensive technical SEO overhaul combined with systematic CRO experimentation transformed TechScale's digital pipeline from underperforming to industry-leading."
+    "excerpt": "A technical SEO overhaul and systematic CRO testing program turned Clarion Software's underperforming website into their top-performing lead generation channel, tripling marketing-qualified leads in six months."
   },
   {
-    "slug": "meridian-health-organic-growth",
-    "title": "Meridian Health: From Page 5 to Position 1 in 90 Days",
-    "client": "Meridian Health",
+    "slug": "lakeview-medical-organic-growth",
+    "title": "Lakeview Medical Group: From Page 5 to Position 1 in 90 Days",
+    "client": "Lakeview Medical Group",
     "industry": "Healthcare",
     "services": ["Technical SEO", "Content Strategy", "Link Building"],
     "heroImage": "/images/case-studies/meridian-hero.jpg",
@@ -27,12 +27,12 @@
       { "value": "67%", "label": "Bounce Rate Drop" },
       { "value": "4.2x", "label": "ROI" }
     ],
-    "excerpt": "Strategic content architecture and aggressive technical optimization propelled Meridian Health from obscurity to dominant search visibility in their competitive healthcare niche."
+    "excerpt": "Targeted content authority building and a technical cleanup of thousands of low-quality pages moved Lakeview Medical Group from search obscurity to top positions for their most valuable service keywords."
   },
   {
-    "slug": "nexgen-geo-strategy",
-    "title": "NexGen Financial: First-Mover Advantage in AI Search",
-    "client": "NexGen Financial",
+    "slug": "archer-lane-geo-strategy",
+    "title": "Archer & Lane Financial: First-Mover Advantage in AI Search",
+    "client": "Archer & Lane Financial",
     "industry": "Financial Services",
     "services": ["GEO", "Content Authority", "Entity Optimization"],
     "heroImage": "/images/case-studies/nexgen-hero.jpg",
@@ -42,6 +42,6 @@
       { "value": "3.8x", "label": "Lead Quality Score" },
       { "value": "12", "label": "AI Platforms Citing" }
     ],
-    "excerpt": "An industry-first Generative Engine Optimization strategy positioned NexGen Financial as the authoritative source cited across ChatGPT, Gemini, and Perplexity for financial planning queries."
+    "excerpt": "A Generative Engine Optimization strategy built from scratch positioned Archer & Lane Financial as the go-to source cited by ChatGPT, Gemini, and Perplexity for financial planning queries in their market."
   }
 ]

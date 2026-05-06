@@ -28,7 +28,44 @@
       "LLM Citation Monitoring Dashboard",
       "Monthly GEO Performance Reports"
     ],
-    "featured": true
+    "featured": true,
+    "whyItMatters": "In 2026, over 40% of B2B buyers begin their research through AI-powered search tools rather than traditional Google searches. This fundamental shift means that ranking on page one is no longer sufficient — if a generative engine does not cite your brand when answering a buyer's query, you effectively do not exist in that conversation. Large language models develop persistent source preferences based on content quality, entity strength, and citation frequency, which means early movers enjoy a structural advantage that widens over time. Brands investing in GEO today are building compounding authority that becomes increasingly difficult for competitors to displace. For businesses that depend on inbound leads, ignoring generative engine optimization is the equivalent of ignoring Google in 2005. The window to establish your brand as a trusted AI-cited source is narrowing rapidly, and the cost of inaction is measured in lost pipeline, eroding market share, and diminishing digital visibility across every discovery channel that matters.",
+    "process": [
+      {
+        "step": 1,
+        "title": "AI Visibility Audit",
+        "description": "We query every major generative engine with your target keywords and map exactly where your brand is cited, where competitors appear, and where critical gaps exist in your AI search footprint."
+      },
+      {
+        "step": 2,
+        "title": "Entity & Authority Mapping",
+        "description": "We analyze your brand's knowledge graph presence, entity relationships, and content authority signals to build a structured optimization roadmap aligned with how LLMs evaluate and rank information sources."
+      },
+      {
+        "step": 3,
+        "title": "Content Restructuring",
+        "description": "We rewrite and restructure your highest-value content using citation-optimized formats, semantic markup, and authoritative sourcing patterns that large language models prioritize when generating answers for users."
+      },
+      {
+        "step": 4,
+        "title": "Monitoring & Iteration",
+        "description": "We deploy proprietary citation tracking dashboards that monitor your brand mentions across AI engines in real time, running continuous optimization cycles to maintain and expand your generative search presence."
+      }
+    ],
+    "faq": [
+      {
+        "question": "How is GEO different from traditional SEO?",
+        "answer": "Traditional SEO focuses on ranking web pages in search engine results through keywords, backlinks, and technical optimization. GEO targets a fundamentally different system — large language models that synthesize answers from multiple sources. While SEO optimizes for crawlers and ranking algorithms, GEO optimizes for how AI models evaluate content authority, entity relationships, and source credibility. Both disciplines complement each other, but GEO requires specialized strategies that traditional SEO agencies do not offer."
+      },
+      {
+        "question": "How long does it take to see results from GEO?",
+        "answer": "Most clients see measurable improvements in AI citation frequency within 60 to 90 days. Unlike traditional SEO where results compound slowly over 6 to 12 months, generative engines re-evaluate sources more dynamically. However, building lasting authority requires sustained effort. Our clients typically see a 2x to 4x increase in AI citations within six months, with the strongest gains coming after entity relationships and content authority architecture are fully optimized."
+      },
+      {
+        "question": "Can you guarantee our brand will be cited by AI engines?",
+        "answer": "No ethical agency can guarantee specific AI citations because generative engines are probabilistic systems that evolve constantly. What we guarantee is a systematic, data-driven approach that dramatically increases your citation likelihood. Our methodology reverse-engineers how LLMs source information, and our track record shows consistent citation improvements across every client engagement. We set measurable KPIs, track progress transparently, and adjust strategy based on real performance data."
+      }
+    ]
   },
   {
     "slug": "technical-seo-core-web-vitals",
@@ -60,7 +97,44 @@
       "Crawl Budget Optimization",
       "Page Speed Engineering"
     ],
-    "featured": true
+    "featured": true,
+    "whyItMatters": "Google's 2026 algorithm treats Core Web Vitals as non-negotiable qualifying factors, with updated Interaction to Next Paint thresholds that disqualify slow-responding sites from top positions entirely. Sites failing LCP, INP, or CLS benchmarks are penalized before content quality is even evaluated. Technical SEO is also the foundation every other marketing channel depends on — your paid ads, content marketing, and email campaigns all drive traffic to your website, and if that website loads slowly or serves broken structured data, every marketing dollar is diminished. Deloitte research shows that a 0.1-second improvement in mobile site speed increases conversion rates by 8.4% for retail sites. For an eCommerce business generating $10 million annually, that marginal speed improvement translates to $840,000 in additional revenue. As generative search engines gain adoption, clean crawl paths and well-organized structured data also determine whether your content is eligible for AI-generated citations. Technical excellence is now the prerequisite for visibility across both traditional and AI-powered search.",
+    "process": [
+      {
+        "step": 1,
+        "title": "Forensic Technical Audit",
+        "description": "We crawl your entire site using enterprise tools like Screaming Frog and Sitebulb, analyzing over 200 technical factors including crawlability, indexation status, render performance, and structured data integrity."
+      },
+      {
+        "step": 2,
+        "title": "Prioritized Roadmap",
+        "description": "We categorize every issue by revenue impact and implementation effort, delivering a prioritized action plan that ensures the highest-value fixes are deployed first for maximum speed-to-results."
+      },
+      {
+        "step": 3,
+        "title": "Implementation & Engineering",
+        "description": "Our engineering team executes optimizations directly — from server configuration and image compression to schema deployment and JavaScript rendering fixes — working alongside your development team or independently."
+      },
+      {
+        "step": 4,
+        "title": "Validation & Monitoring",
+        "description": "We validate every change against Core Web Vitals benchmarks using real-user monitoring data, then deploy automated alerts and monthly audits to catch regressions before they impact rankings."
+      }
+    ],
+    "faq": [
+      {
+        "question": "How often should a technical SEO audit be performed?",
+        "answer": "We recommend a comprehensive audit quarterly, with automated monitoring running continuously between audits. Websites are dynamic — CMS updates, new content, third-party script changes, and developer deployments can introduce technical issues at any time. Our clients receive real-time alerts for critical regressions like broken pages, dropped schema, or Core Web Vitals failures, plus a full re-crawl every 90 days to catch issues automated monitoring may miss."
+      },
+      {
+        "question": "Will technical SEO changes affect our current rankings?",
+        "answer": "Technical SEO improvements are designed to strengthen your rankings, not disrupt them. We follow a phased implementation approach with careful redirect mapping and change validation to prevent negative impact. In rare cases, fixing deeply broken technical issues may cause temporary ranking fluctuations as Google re-crawls your site, but these corrections consistently result in net positive ranking improvements within two to four weeks."
+      },
+      {
+        "question": "Do you work with our existing development team?",
+        "answer": "Absolutely. We operate flexibly based on your needs. For teams with in-house developers, we provide detailed technical specifications and implementation guides, then validate their work against our standards. For teams without dedicated development resources, our engineers handle implementation end-to-end. We integrate with your existing workflows — whether that means submitting pull requests in GitHub, writing Jira tickets, or collaborating directly in your staging environment."
+      }
+    ]
   },
   {
     "slug": "paid-advertising",
@@ -92,7 +166,44 @@
       "Bid Strategy Optimization",
       "Monthly Performance Reports"
     ],
-    "featured": true
+    "featured": true,
+    "whyItMatters": "Paid advertising in 2026 is both more powerful and more treacherous than ever. Average cost-per-click across Google Ads has risen 15% year-over-year, meaning inefficient campaigns burn through budgets faster than before. Simultaneously, the deprecation of third-party cookies and Apple's ATT framework have gutted the tracking infrastructure that once made PPC straightforward. Platforms like Google Performance Max and Meta Advantage+ now use machine learning to optimize delivery, but these algorithms are only as effective as the data signals and creative assets you feed them. Businesses running PPC with outdated account structures, poor conversion tracking, or weak creative pipelines are actively training algorithms to waste their money. Despite this complexity, paid advertising remains the fastest revenue lever available — unlike SEO or content marketing, PPC delivers qualified leads within days, not months. The difference between a 2x ROAS and a 6x ROAS comes down to strategic architecture, server-side measurement that survives ad blockers, and relentless creative iteration. Companies that master these disciplines turn paid media into a predictable, scalable growth engine.",
+    "process": [
+      {
+        "step": 1,
+        "title": "Audit & Strategy",
+        "description": "We audit your existing campaigns, competitor positioning, and market opportunity to build a channel strategy with clear ROAS targets, audience definitions, and budget allocation across Google, Meta, and LinkedIn."
+      },
+      {
+        "step": 2,
+        "title": "Campaign Architecture",
+        "description": "We build tightly themed ad groups with granular keyword structures and custom audiences segmented by intent stage, ensuring your budget is concentrated on the highest-probability conversion opportunities available."
+      },
+      {
+        "step": 3,
+        "title": "Creative & Landing Pages",
+        "description": "We develop platform-specific ad creatives and conversion-optimized landing pages that align messaging from first impression to form submission, maximizing quality scores and conversion rates simultaneously."
+      },
+      {
+        "step": 4,
+        "title": "Optimization & Scaling",
+        "description": "We run continuous A/B tests on creatives, audiences, and bidding strategies while monitoring search term reports and placement data, systematically eliminating waste and scaling what converts profitably."
+      }
+    ],
+    "faq": [
+      {
+        "question": "What is the minimum budget needed for paid advertising?",
+        "answer": "We recommend a minimum monthly ad spend of $3,000 to $5,000 per platform to generate statistically significant data and meaningful results. Below that threshold, campaigns lack sufficient volume to optimize effectively and algorithms cannot learn fast enough. A focused single-platform campaign with $3,000 can outperform a scattered $10,000 spend across four platforms without proper strategy. We tailor recommendations to your goals and competitive landscape."
+      },
+      {
+        "question": "How do you handle tracking with privacy regulations and cookie deprecation?",
+        "answer": "We implement server-side conversion tracking using Google Tag Manager Server-Side and the Meta Conversions API, which bypass browser-based ad blockers and cookie restrictions. This approach recovers 15 to 30 percent of conversion data that client-side tracking misses. We also build first-party data strategies including enhanced conversions and customer match lists to maintain targeting accuracy. Every setup is fully compliant with GDPR, CCPA, and emerging privacy regulations."
+      },
+      {
+        "question": "How quickly can we expect results from paid campaigns?",
+        "answer": "Paid advertising delivers faster results than organic channels — expect initial traffic and leads within the first week of launch. However, true optimization takes 60 to 90 days as we gather conversion data, refine audience targeting, and test creative variations. Most clients see their cost-per-acquisition decrease by 20 to 35 percent within the first quarter as our optimization cycle matures. We provide weekly performance updates and monthly strategy reviews throughout."
+      }
+    ]
   },
   {
     "slug": "high-performance-web-development",
@@ -124,7 +235,44 @@
       "Accessibility (WCAG 2.2) Compliance",
       "Ongoing Performance Monitoring"
     ],
-    "featured": true
+    "featured": true,
+    "whyItMatters": "Your website is the center of gravity for every digital marketing effort. In 2026, 70% of consumers say page speed directly influences their purchase decisions, yet the average mobile site still loads in 3.8 seconds — far above the 1.5-second threshold where conversion rates peak. Google's ranking algorithm now penalizes sites that fail Core Web Vitals, meaning technical performance determines organic visibility. Modern frameworks like Next.js 15 enable capabilities impossible two years ago: partial prerendering, edge-side personalization, and sub-second page transitions that feel native. Deloitte research confirms every 100-millisecond improvement in load time drives a 1.1% increase in eCommerce conversion rate. For a business generating $5 million annually online, shaving 300 milliseconds translates to $165,000 in additional revenue from the same traffic. AI search engines also favor sites with clean HTML semantics and fast server responses when selecting citation sources. A high-performance website is not a luxury — it is the foundation that determines whether every other marketing investment pays off or falls flat.",
+    "process": [
+      {
+        "step": 1,
+        "title": "Discovery & Architecture",
+        "description": "We conduct stakeholder interviews, competitive analysis, and technical requirements gathering to define site architecture, technology stack selection, and a detailed project roadmap with milestones and deliverables."
+      },
+      {
+        "step": 2,
+        "title": "Design & Prototyping",
+        "description": "We create high-fidelity designs and interactive prototypes in Figma, testing layout, navigation, and conversion flows with real users before writing a single line of production code."
+      },
+      {
+        "step": 3,
+        "title": "Development & Integration",
+        "description": "We build using component-driven development with server-side rendering, headless CMS integration, and automated testing pipelines ensuring every page meets performance and accessibility standards before deployment."
+      },
+      {
+        "step": 4,
+        "title": "Launch & Optimization",
+        "description": "We execute a zero-downtime launch with comprehensive QA, redirect mapping, and post-launch real-user monitoring, then run iterative CRO experiments to continuously improve conversion rates."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Why do you use Next.js instead of WordPress?",
+        "answer": "WordPress powers 43% of the web but carries inherent performance limitations — plugin bloat, database-dependent rendering, and constant security vulnerabilities. Next.js generates static HTML at build time and serves pages from a global CDN, achieving load times WordPress cannot match without expensive caching infrastructure. Our clients typically see 60 to 80 percent faster page loads, 99.99% uptime, and dramatically reduced hosting costs compared to their previous WordPress setups."
+      },
+      {
+        "question": "How long does a typical web development project take?",
+        "answer": "A standard marketing website takes 8 to 12 weeks from kickoff to launch. Complex eCommerce builds or web applications with custom integrations typically require 12 to 20 weeks. We follow an agile methodology with two-week sprints, meaning you see working progress every 14 days and can provide feedback continuously. Rush timelines are available for time-sensitive launches, and we always provide a detailed project timeline before contract signing."
+      },
+      {
+        "question": "Do you provide ongoing maintenance and support after launch?",
+        "answer": "Yes. Every project includes 30 days of post-launch support at no additional cost. Beyond that, we offer monthly retainer packages covering security updates, performance monitoring, content updates, and priority bug fixes. Retainer clients also receive quarterly performance audits with Core Web Vitals analysis, accessibility checks, and conversion rate optimization recommendations. We believe a website should continuously improve after launch, not stagnate."
+      }
+    ]
   },
   {
     "slug": "content-marketing",
@@ -156,7 +304,44 @@
       "Content Performance Analytics",
       "Monthly Content Reports"
     ],
-    "featured": false
+    "featured": false,
+    "whyItMatters": "Content marketing in 2026 serves a dual purpose no other channel can replicate: it drives organic traffic through traditional search while building the authority signals AI engines use to select citation sources. With 70% of B2B buyers consuming multiple content pieces before contacting sales, your content is often the first and most influential touchpoint in the customer journey. Google's Helpful Content system now explicitly rewards original, expert-driven content while penalizing AI-generated filler, raising the quality bar dramatically. Meanwhile, generative engines like ChatGPT and Perplexity evaluate depth, originality, and expertise when deciding which brands to reference. A single well-researched pillar article can drive thousands of monthly visitors, earn hundreds of backlinks, and get cited across dozens of AI-generated responses for years. HubSpot reports that compounding blog posts older than six months generate 38% of total blog traffic. Unlike paid advertising where traffic stops when spending stops, content assets appreciate in value as they accumulate authority signals over time. Content marketing is the highest-ROI long-term investment in your brand's digital visibility.",
+    "process": [
+      {
+        "step": 1,
+        "title": "Audience & Keyword Research",
+        "description": "We analyze your target audience's search behavior, pain points, and content consumption patterns to identify high-value topic clusters aligned with both commercial intent and AI citation opportunities."
+      },
+      {
+        "step": 2,
+        "title": "Editorial Strategy & Planning",
+        "description": "We develop a comprehensive content calendar mapping topics to buyer journey stages, content formats, and distribution channels — ensuring every piece serves a strategic purpose with measurable KPIs."
+      },
+      {
+        "step": 3,
+        "title": "Production & Optimization",
+        "description": "Our subject matter writers produce research-backed content with expert interviews, original data, and strategic internal linking, optimized for search engines, AI citation, and reader engagement simultaneously."
+      },
+      {
+        "step": 4,
+        "title": "Distribution & Performance Analysis",
+        "description": "We distribute content across owned channels, syndication networks, and social platforms while tracking rankings, traffic, engagement, and lead generation to continuously refine strategy based on data."
+      }
+    ],
+    "faq": [
+      {
+        "question": "How do you ensure content quality and brand voice consistency?",
+        "answer": "We begin every engagement by developing a detailed brand voice guide and editorial standards document in collaboration with your team. Our writers undergo a calibration process where initial pieces are refined until voice alignment is perfect. Every article passes through a three-stage editorial process — writer draft, subject matter expert review, and final editorial polish. We also maintain a living style guide that evolves with your brand over time."
+      },
+      {
+        "question": "What types of content do you produce?",
+        "answer": "We produce long-form blog articles, pillar pages, whitepapers, case studies, infographics, video scripts, podcast outlines, email sequences, and social media content. Our strategy begins with identifying which formats resonate most with your specific audience and perform best for your target keywords. We increasingly produce multimedia content packages where a single research effort yields articles, videos, social assets, and email content simultaneously for maximum efficiency."
+      },
+      {
+        "question": "How do you measure content marketing ROI?",
+        "answer": "We track performance across four tiers: visibility metrics like organic traffic and keyword rankings, engagement metrics like time on page and scroll depth, conversion metrics like leads generated and pipeline influenced, and authority metrics like backlinks earned and AI engine citations. Every piece is tagged in your analytics platform so we can attribute revenue back to specific articles. Monthly reports show clear ROI calculations comparing content investment to measurable business outcomes."
+      }
+    ]
   },
   {
     "slug": "social-media-management",
@@ -188,7 +373,44 @@
       "Monthly Analytics & Performance Reports",
       "Paid Social Campaign Management"
     ],
-    "featured": false
+    "featured": false,
+    "whyItMatters": "Social media in 2026 is the primary brand discovery channel for audiences under 45. TikTok and Instagram have surpassed Google as top search platforms for Gen Z product research, while LinkedIn has become the definitive B2B demand generation channel. With over 5.2 billion active social media users worldwide spending an average of 2.5 hours daily on platforms, your absence is a competitive liability. Platform algorithms now heavily favor authentic engagement over promotional broadcasting — brands that generate meaningful comments, saves, and shares see expanding reach while corporate-style accounts face declining visibility every quarter. Social commerce is projected to exceed $1.2 trillion globally in 2026, transforming platforms from awareness tools into full-funnel revenue channels with native shopping features. Social signals also feed into how AI search engines evaluate brand authority and entity strength. Companies with active, engaged communities send stronger trust signals to generative engines. Strategic social media management is no longer about vanity metrics — it is a revenue-driving, authority-building discipline that impacts visibility across every discovery channel.",
+    "process": [
+      {
+        "step": 1,
+        "title": "Social Audit & Strategy",
+        "description": "We audit your current social presence, competitor activity, and audience demographics across all platforms to develop channel-specific strategies with clear KPIs, content themes, and posting cadences."
+      },
+      {
+        "step": 2,
+        "title": "Content Creation & Calendar",
+        "description": "We produce platform-native content — short-form video, carousels, stories, and written posts — organized in a monthly content calendar you approve before anything goes live on your channels."
+      },
+      {
+        "step": 3,
+        "title": "Community Management",
+        "description": "Our team monitors and responds to comments, direct messages, and brand mentions within defined SLAs, fostering genuine community engagement that builds loyalty and turns followers into advocates."
+      },
+      {
+        "step": 4,
+        "title": "Analytics & Optimization",
+        "description": "We deliver monthly performance reports analyzing engagement rates, follower growth, reach, and attribution to business outcomes, replacing underperforming content types with data-backed alternatives each cycle."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Which social media platforms should our business be on?",
+        "answer": "The right platforms depend on where your target audience spends time and your business objectives. B2B companies typically see highest ROI from LinkedIn and X for thought leadership. B2C and eCommerce brands usually perform best on Instagram, TikTok, and Facebook. We never recommend being on every platform — it is far more effective to dominate two or three channels than spread thin across six with mediocre content and inconsistent engagement."
+      },
+      {
+        "question": "How do you create content that feels authentic to our brand?",
+        "answer": "We conduct brand immersion workshops to understand your voice, values, and visual identity, then develop a social-specific brand playbook guiding tone, vocabulary, and style. Content is presented for approval in advance and iterated based on your feedback until it feels genuinely yours. We also incorporate your team's expertise through interviews and behind-the-scenes content that no external agency could fabricate. Many clients say our content sounds more like them than what they produced internally."
+      },
+      {
+        "question": "Can you prove social media drives actual revenue?",
+        "answer": "Yes. We implement UTM tracking, social attribution models, and CRM integration to track the full journey from social impression to closed deal. For eCommerce clients, we set up native shopping features and track direct social commerce revenue. For B2B clients, we measure pipeline influence by tracking which leads engaged with social content before converting. Monthly reports include clear revenue attribution showing exactly what your social investment returns."
+      }
+    ]
   },
   {
     "slug": "email-marketing",
@@ -220,7 +442,44 @@
       "A/B Testing Program",
       "Monthly Performance Reports"
     ],
-    "featured": false
+    "featured": false,
+    "whyItMatters": "Email marketing delivers $36 for every $1 invested — outperforming social media, paid search, and display advertising by an enormous margin. Unlike social platforms that throttle organic reach or paid channels that stop producing when spending stops, your email list is an owned asset that compounds in value over time. Modern ESPs now offer AI-powered send-time optimization, predictive churn analytics, and dynamic content blocks that personalize every email based on individual behavior. Brands leveraging these capabilities see 2x to 4x higher revenue per email compared to batch-and-blast senders. Gmail and Outlook use AI-powered filtering that evaluates sender reputation and engagement patterns for inbox placement, meaning generic campaigns see declining deliverability while personalized senders are rewarded. Privacy changes have paradoxically strengthened email's position — as third-party cookie deprecation undermines retargeting effectiveness, email's first-party data model has become even more valuable. Subscribers who opted in represent your highest-quality audience segment. A properly architected email system generates revenue automatically, nurturing leads, recovering abandoned carts, and re-engaging lapsed customers around the clock.",
+    "process": [
+      {
+        "step": 1,
+        "title": "Audit & Strategy",
+        "description": "We audit your current email performance, list health, deliverability metrics, and automation gaps to build a comprehensive strategy with segmentation architecture, flow design, and revenue projections."
+      },
+      {
+        "step": 2,
+        "title": "Segmentation & Flow Architecture",
+        "description": "We design behavioral segmentation models and map every automation flow — welcome series, abandoned cart, post-purchase, win-back, and re-engagement — with trigger logic and branching paths documented."
+      },
+      {
+        "step": 3,
+        "title": "Design, Copy & Build",
+        "description": "We create mobile-first email templates and write conversion-focused copy for every campaign and automation flow, then build and test everything in your ESP with proper tracking and dynamic content."
+      },
+      {
+        "step": 4,
+        "title": "Testing & Optimization",
+        "description": "We launch a structured A/B testing program across subject lines, send times, content formats, and CTAs, with monthly analysis driving continuous refinement that compounds performance improvements over time."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Which email service provider (ESP) do you recommend?",
+        "answer": "For eCommerce businesses, Klaviyo is our primary recommendation due to its deep Shopify integration, predictive analytics, and advanced segmentation. For B2B companies, we often work with HubSpot, ActiveCampaign, or Customer.io depending on CRM requirements. For enterprise clients with complex data needs, we implement Braze or Iterable. We are platform-agnostic and recommend the ESP that best fits your specific requirements, budget, and integration needs."
+      },
+      {
+        "question": "How do you improve email deliverability?",
+        "answer": "We address deliverability from multiple angles. Technically, we configure proper SPF, DKIM, and DMARC authentication, warm up new sending domains gradually, and monitor blocklist status. Behaviorally, we implement engagement-based segmentation that suppresses unengaged subscribers, maintain rigorous list hygiene, and design content that drives genuine interaction. We monitor inbox placement rates across Gmail, Outlook, and Yahoo, adjusting strategy proactively when we detect shifts."
+      },
+      {
+        "question": "What kind of results can we expect from email automation?",
+        "answer": "eCommerce clients commonly recover 5 to 15 percent of abandoned carts, generate 20 to 30 percent of total email revenue from automated flows, and increase repeat purchase rates by 25 percent or more within 90 days. B2B clients see shortened sales cycles and higher lead-to-opportunity conversion rates. Core flows begin generating measurable revenue within two to four weeks of deployment. We set specific targets during strategy development and report against them monthly."
+      }
+    ]
   },
   {
     "slug": "data-analytics-cro",
@@ -252,6 +511,43 @@
       "Monthly CRO Experiment Reports",
       "Executive Dashboard & ROI Tracking"
     ],
-    "featured": false
+    "featured": false,
+    "whyItMatters": "Most businesses in 2026 are making million-dollar marketing decisions on fundamentally broken data. Ad blockers now affect 42% of desktop users, Apple's Intelligent Tracking Prevention strips cookies aggressively, and default GA4 implementations miss 20 to 40 percent of actual conversions. Every marketing decision based on this incomplete data is a misallocation of budget. Beyond measurement, conversion rate optimization represents the highest-leverage growth opportunity available. Increasing your conversion rate from 2% to 3% delivers 50% more revenue from the same traffic without spending an additional dollar on acquisition. For a business generating $1 million monthly from its website, that single percentage point translates to $500,000 in additional monthly revenue. Yet fewer than 30% of companies run structured A/B testing programs. The convergence of accurate analytics and systematic experimentation creates a compounding advantage — clean data reveals where visitors drop off, testing validates how to fix those problems, and each winning experiment becomes the new baseline. Companies committed to data-driven CRO typically see 20 to 50 percent conversion improvements within the first year, permanently increasing revenue per visitor across every acquisition channel.",
+    "process": [
+      {
+        "step": 1,
+        "title": "Measurement Audit",
+        "description": "We audit your entire analytics stack — GA4 configuration, tag management, conversion tracking, and attribution setup — identifying data gaps, misconfigurations, and opportunities to recover lost conversion data."
+      },
+      {
+        "step": 2,
+        "title": "Infrastructure Build",
+        "description": "We implement server-side tracking, configure enhanced eCommerce events, build custom attribution models, and deploy executive dashboards providing accurate, real-time visibility into marketing performance across all channels."
+      },
+      {
+        "step": 3,
+        "title": "Behavioral Analysis",
+        "description": "We deploy heatmaps, session recordings, and funnel analysis to identify exactly where users drop off and why, informing our CRO hypothesis backlog and experiment prioritization framework with qualitative evidence."
+      },
+      {
+        "step": 4,
+        "title": "Experimentation & Optimization",
+        "description": "We run a structured A/B testing program with documented hypotheses, statistically significant sample sizes, and clear success criteria — typically executing four to eight experiments per month across high-impact pages."
+      }
+    ],
+    "faq": [
+      {
+        "question": "How do you fix our analytics setup without losing historical data?",
+        "answer": "We never replace your existing setup destructively. We audit what is working, then layer improvements on top of your current configuration. For critical changes affecting historical comparison, we run parallel tracking for 30 to 60 days to maintain data continuity. Server-side tracking is implemented alongside your client-side setup, enriching data rather than replacing it. Historical data remains fully intact throughout the entire process."
+      },
+      {
+        "question": "What is a realistic conversion rate improvement to expect?",
+        "answer": "Websites converting below 3 percent typically have significant room for improvement. Our structured testing programs achieve a 20 to 40 percent relative improvement in primary conversion rates within six months. A site converting at 2 percent can realistically reach 2.4 to 2.8 percent — translating directly to 20 to 40 percent more revenue from identical traffic. Results compound over time as each winning experiment becomes the new baseline for future tests."
+      },
+      {
+        "question": "How many A/B tests do you run per month?",
+        "answer": "We typically run four to eight experiments monthly depending on your traffic volume and conversion points. Statistical significance requires adequate sample sizes, so we scale velocity to your traffic levels. For high-traffic sites with over 100,000 monthly visitors, we run more simultaneous experiments. For lower-traffic sites, we focus on fewer, higher-impact tests ensuring statistically valid results. Every test follows a documented hypothesis with clear success metrics defined before launch."
+      }
+    ]
   }
 ]

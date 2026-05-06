@@ -7,7 +7,6 @@ type SchemaType =
   | "article"
   | "faq"
   | "case-study"
-  | "local-business"
   | "person"
   | "review"
   | "how-to"
@@ -29,7 +28,7 @@ function getSchema(type: SchemaType, data?: Record<string, unknown>) {
         "@type": "Organization",
         name: "Ignition Nova",
         url: baseUrl,
-        logo: `${baseUrl}/images/logo.png`,
+        logo: `${baseUrl}/icon-512.png`,
         description: siteData.description,
         foundingDate: "2020",
         numberOfEmployees: {
@@ -52,16 +51,8 @@ function getSchema(type: SchemaType, data?: Record<string, unknown>) {
         },
         contactPoint: {
           "@type": "ContactPoint",
-          telephone: siteData.phone,
           contactType: "sales",
           email: siteData.email,
-        },
-        address: {
-          "@type": "PostalAddress",
-          streetAddress: "785 15th Street, Office 478",
-          addressLocality: "Berlin",
-          addressCountry: "DE",
-          postalCode: "81566",
         },
         sameAs: Object.values(siteData.social),
         aggregateRating: {
@@ -129,7 +120,7 @@ function getSchema(type: SchemaType, data?: Record<string, unknown>) {
           name: "Ignition Nova",
           logo: {
             "@type": "ImageObject",
-            url: `${baseUrl}/images/logo.png`,
+            url: `${baseUrl}/icon-512.png`,
           },
         },
         datePublished: data?.date,
@@ -163,7 +154,7 @@ function getSchema(type: SchemaType, data?: Record<string, unknown>) {
           name: "Ignition Nova",
           logo: {
             "@type": "ImageObject",
-            url: `${baseUrl}/images/logo.png`,
+            url: `${baseUrl}/icon-512.png`,
           },
         },
         datePublished: data?.date,
@@ -204,57 +195,12 @@ function getSchema(type: SchemaType, data?: Record<string, unknown>) {
           name: "Ignition Nova",
           logo: {
             "@type": "ImageObject",
-            url: `${baseUrl}/images/logo.png`,
+            url: `${baseUrl}/icon-512.png`,
           },
         },
         ...(data?.slug
           ? { mainEntityOfPage: `${baseUrl}/work/${data.slug}` }
           : {}),
-      };
-
-    case "local-business":
-      return {
-        "@context": "https://schema.org",
-        "@type": "ProfessionalService",
-        name: "Ignition Nova",
-        url: baseUrl,
-        logo: `${baseUrl}/images/logo.png`,
-        image: `${baseUrl}/opengraph-image`,
-        description: siteData.description,
-        telephone: siteData.phone,
-        email: siteData.email,
-        address: {
-          "@type": "PostalAddress",
-          streetAddress: "785 15th Street, Office 478",
-          addressLocality: "Berlin",
-          addressCountry: "DE",
-          postalCode: "81566",
-        },
-        geo: {
-          "@type": "GeoCoordinates",
-          latitude: "52.5200",
-          longitude: "13.4050",
-        },
-        sameAs: Object.values(siteData.social),
-        priceRange: "$$$",
-        openingHoursSpecification: {
-          "@type": "OpeningHoursSpecification",
-          dayOfWeek: [
-            "Monday",
-            "Tuesday",
-            "Wednesday",
-            "Thursday",
-            "Friday",
-          ],
-          opens: "09:00",
-          closes: "18:00",
-        },
-        aggregateRating: {
-          "@type": "AggregateRating",
-          ratingValue: "4.9",
-          reviewCount: "87",
-          bestRating: "5",
-        },
       };
 
     case "person":

@@ -56,6 +56,12 @@ export default async function ServicePage({ params }: Props) {
           data={{ name: service.title, description: service.definition }}
         />
       )}
+      {"faq" in service && (
+        <StructuredData
+          type="faq"
+          data={{ questions: ((service as Record<string, unknown>).faq as Array<{question: string; answer: string}>).map(f => ({ q: f.question, a: f.answer })) }}
+        />
+      )}
 
       <section className="relative pt-40 pb-24 overflow-hidden">
         <div className="absolute inset-0 bg-[#060810]" />
@@ -189,8 +195,60 @@ export default async function ServicePage({ params }: Props) {
               </div>
             </AnimateIn>
           </div>
+
+          {"whyItMatters" in service && (
+            <AnimateIn delay={0.3}>
+              <div className="glass-card rounded-3xl p-8 lg:p-10 flex items-start gap-6 border-accent/10">
+                <div className="w-14 h-14 rounded-2xl bg-accent/10 flex items-center justify-center flex-shrink-0">
+                  <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="var(--accent)" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                    <path d="M12 2L2 7l10 5 10-5-10-5z" /><path d="M2 17l10 5 10-5" /><path d="M2 12l10 5 10-5" />
+                  </svg>
+                </div>
+                <div>
+                  <h2 className="font-heading text-2xl font-bold text-primary mb-4 tracking-tight">
+                    Why It Matters
+                  </h2>
+                  <p className="text-muted leading-relaxed text-lg font-light">
+                    {(service as Record<string, unknown>).whyItMatters as string}
+                  </p>
+                </div>
+              </div>
+            </AnimateIn>
+          )}
         </div>
       </section>
+
+      {"process" in service && (
+        <section className="py-32 relative">
+          <div className="absolute inset-0 gradient-mesh" />
+          <div className="relative max-w-4xl mx-auto px-6 lg:px-8">
+            <AnimateIn>
+              <div className="inline-flex items-center gap-2 bg-accent/5 border border-accent/10 rounded-full px-4 py-1.5 mb-6">
+                <span className="w-1.5 h-1.5 rounded-full bg-accent" />
+                <span className="text-accent text-xs font-semibold uppercase tracking-widest">Our Process</span>
+              </div>
+              <h2 className="font-heading text-4xl font-bold text-primary mb-12 tracking-tight">
+                How We <span className="gradient-text">Deliver Results</span>
+              </h2>
+            </AnimateIn>
+            <div className="grid sm:grid-cols-2 gap-6">
+              {((service as Record<string, unknown>).process as Array<{step: number; title: string; description: string}>).map((p, i) => (
+                <AnimateIn key={p.step} delay={i * 0.1}>
+                  <div className="glass-card rounded-2xl p-7 h-full">
+                    <div className="flex items-center gap-4 mb-4">
+                      <span className="w-10 h-10 rounded-xl bg-accent/10 flex items-center justify-center text-accent font-bold text-sm">
+                        {String(p.step).padStart(2, "0")}
+                      </span>
+                      <h3 className="font-heading font-bold text-primary">{p.title}</h3>
+                    </div>
+                    <p className="text-muted text-sm leading-relaxed font-light">{p.description}</p>
+                  </div>
+                </AnimateIn>
+              ))}
+            </div>
+          </div>
+        </section>
+      )}
 
       <section className="py-32 relative">
         <div className="absolute inset-0 gradient-mesh" />
@@ -249,6 +307,33 @@ export default async function ServicePage({ params }: Props) {
           </AnimateIn>
         </div>
       </section>
+
+      {"faq" in service && (
+        <section className="py-32 relative">
+          <div className="absolute inset-0 dot-pattern opacity-30" />
+          <div className="relative max-w-4xl mx-auto px-6 lg:px-8">
+            <AnimateIn>
+              <div className="inline-flex items-center gap-2 bg-accent/5 border border-accent/10 rounded-full px-4 py-1.5 mb-6">
+                <span className="w-1.5 h-1.5 rounded-full bg-accent" />
+                <span className="text-accent text-xs font-semibold uppercase tracking-widest">FAQ</span>
+              </div>
+              <h2 className="font-heading text-4xl font-bold text-primary mb-12 tracking-tight">
+                Common <span className="gradient-text">Questions</span>
+              </h2>
+            </AnimateIn>
+            <div className="space-y-4">
+              {((service as Record<string, unknown>).faq as Array<{question: string; answer: string}>).map((item, i) => (
+                <AnimateIn key={i} delay={i * 0.1}>
+                  <div className="glass-card rounded-2xl p-7">
+                    <h3 className="font-heading font-bold text-primary mb-3">{item.question}</h3>
+                    <p className="text-muted text-sm leading-relaxed font-light">{item.answer}</p>
+                  </div>
+                </AnimateIn>
+              ))}
+            </div>
+          </div>
+        </section>
+      )}
 
       <section className="py-32 relative">
         <div className="absolute inset-0 dot-pattern opacity-30" />

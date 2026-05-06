@@ -2,8 +2,8 @@
   {
     "name": "Sarah Chen",
     "title": "VP of Marketing",
-    "company": "TechScale Inc.",
-    "quote": "Ignition Nova didn't just increase our traffic—they transformed our entire digital pipeline. We saw a 340% increase in marketing-qualified leads within 6 months.",
+    "company": "Clarion Software",
+    "quote": "Honestly, we'd been burned by two agencies before Ignition Nova. The difference was night and day. They actually fixed our site's technical problems before trying to sell us on more content. Leads went up 340% in six months, which sounds made up, but our CRM doesn't lie.",
     "metric": "340% MQL Increase",
     "avatar": "/images/testimonials/avatar-1.svg",
     "rating": 5,
@@ -11,32 +11,52 @@
   },
   {
     "name": "Marcus Rivera",
-    "title": "CEO",
-    "company": "GrowthForge",
-    "quote": "Their technical SEO work was surgical. Our Core Web Vitals went from failing to perfect scores, and organic traffic doubled in 90 days.",
+    "title": "Director of Operations",
+    "company": "Benchline Analytics",
+    "quote": "Our Core Web Vitals were a disaster and we didn't even know it was costing us leads. Their team got our Lighthouse score from the 30s to 96 in about three weeks, and organic traffic roughly doubled within the quarter. Solid work, no fluff.",
     "metric": "2x Organic Traffic",
     "avatar": "/images/testimonials/avatar-2.svg",
-    "rating": 5,
-    "datePublished": "2025-09-22"
+    "rating": 4.5,
+    "datePublished": "2024-09-22"
   },
   {
     "name": "Elena Kowalski",
-    "title": "Director of Digital",
-    "company": "Meridian Health",
-    "quote": "The ROI speaks for itself. Ignition Nova's CRO program reduced our cost per acquisition by 45% while increasing conversion rates across every funnel stage.",
-    "metric": "45% CPA Reduction",
+    "title": "Marketing Manager",
+    "company": "Lakeview Medical Group",
+    "quote": "We went from basically invisible on Google to ranking first for most of our key service terms. The patient inquiry forms are up over 150%, which has been huge for us. Only thing I'd say is the onboarding process took a bit to get going, but once it did, the results were real.",
+    "metric": "156% More Patient Inquiries",
     "avatar": "/images/testimonials/avatar-3.svg",
-    "rating": 5,
-    "datePublished": "2026-01-10"
+    "rating": 4.5,
+    "datePublished": "2025-01-10"
   },
   {
     "name": "David Park",
-    "title": "CMO",
-    "company": "NexGen Financial",
-    "quote": "They were the first agency to talk to us about Generative Engine Optimization. Now our brand is cited in AI search results, giving us a massive competitive advantage.",
-    "metric": "AI Search Leader",
+    "title": "Chief Marketing Officer",
+    "company": "Archer & Lane Financial",
+    "quote": "They brought up AI search optimization before we even knew it was a thing. Now when someone asks ChatGPT or Perplexity about retirement planning in our area, we come up. That's a competitive edge nobody else in our space has figured out yet.",
+    "metric": "85% AI Citation Rate",
     "avatar": "/images/testimonials/avatar-4.svg",
     "rating": 5,
     "datePublished": "2026-02-18"
+  },
+  {
+    "name": "Rachel Thornton",
+    "title": "Head of Digital Marketing",
+    "company": "Prism Industrial Supply",
+    "quote": "We're a niche B2B company, so most agencies don't really get our audience. Ignition Nova took the time to understand our buyers and built a content strategy that actually speaks to procurement managers. Our demo requests are up about 80% year over year. Not flashy, but meaningful for us.",
+    "metric": "80% More Demo Requests",
+    "avatar": "/images/testimonials/avatar-5.svg",
+    "rating": 4.5,
+    "datePublished": "2024-06-03"
+  },
+  {
+    "name": "James Okoro",
+    "title": "Founder & CEO",
+    "company": "Greenline Property Management",
+    "quote": "I'll be straight — I was skeptical about SEO after wasting money on it years ago. But Ignition Nova showed me exactly what they were doing and why at every step. Our cost per lead dropped by about 40% and we're getting calls from areas we never ranked in before. Worth every dollar.",
+    "metric": "40% Lower Cost Per Lead",
+    "avatar": "/images/testimonials/avatar-6.svg",
+    "rating": 5,
+    "datePublished": "2025-07-29"
   }
 ]
