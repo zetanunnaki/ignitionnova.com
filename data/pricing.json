@@ -1,7 +1,7 @@
 [
   {
     "name": "Starter",
-    "price": "$3,500",
+    "price": "$999",
     "period": "/month",
     "hours": "15 hours",
     "term": "Month-to-month",
@@ -22,7 +22,7 @@
   },
   {
     "name": "Growth",
-    "price": "$7,500",
+    "price": "$1,499",
     "period": "/month",
     "hours": "30 hours",
     "term": "3-month minimum",
@@ -44,7 +44,7 @@
   },
   {
     "name": "Scale",
-    "price": "$15,000",
+    "price": "$3,499",
     "period": "/month",
     "hours": "50 hours",
     "term": "3-month minimum",
