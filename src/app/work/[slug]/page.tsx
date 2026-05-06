@@ -61,7 +61,10 @@ export default async function CaseStudyPage({ params }: Props) {
           <img
             src={jsonData.heroImage}
             alt=""
+            width={1536}
+            height={1024}
             className="absolute inset-0 w-full h-full object-cover opacity-30"
+            fetchPriority="high"
           />
         )}
         <div className="absolute inset-0 bg-gradient-to-t from-[#060810] via-[#060810]/70 to-transparent" />

@@ -70,9 +70,12 @@ export default async function InsightPage({ params }: Props) {
       <section className="relative pt-40 pb-24 overflow-hidden">
         <div className="absolute inset-0 bg-[#060810]" />
         <img
-          src={`/images/insights/${slug}.png`}
+          src={`/images/insights/${slug}.webp`}
           alt=""
+          width={1536}
+          height={1024}
           className="absolute inset-0 w-full h-full object-cover opacity-30"
+          fetchPriority="high"
         />
         <div className="absolute inset-0 bg-gradient-to-t from-[#060810] via-[#060810]/70 to-transparent" />
         <div className="absolute inset-0 overflow-hidden pointer-events-none">
@@ -152,10 +155,13 @@ export default async function InsightPage({ params }: Props) {
                   <div className="h-36 relative overflow-hidden">
                     <div className="absolute inset-0 gradient-bg" />
                     <img
-                      src={`/images/insights/${post.slug}.png`}
+                      src={`/images/insights/${post.slug}.webp`}
                       alt={`Cover image for ${post.frontMatter.title}`}
+                      width={1536}
+                      height={1024}
                       className="absolute inset-0 w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
                       loading="lazy"
+                      decoding="async"
                     />
                     <div className="absolute inset-0 bg-gradient-to-t from-[var(--surface-darker)]/80 via-transparent to-transparent" />
                   </div>

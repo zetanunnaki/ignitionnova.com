@@ -104,6 +104,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className={`${dmSans.variable} ${spaceGrotesk.variable}`}>
+      <head>
+        <link rel="preload" href="/images/hero.webp" as="image" type="image/webp" />
+      </head>
       <body className="min-h-screen flex flex-col antialiased">
         <Script
           src="https://www.googletagmanager.com/gtag/js?id=G-4Z5CH3PPXX"

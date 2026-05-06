@@ -42,9 +42,12 @@ export default function HomePage() {
         {/* Layered background */}
         <div className="absolute inset-0 bg-[#060810]" />
         <img
-          src="/images/hero.png"
+          src="/images/hero.webp"
           alt=""
+          width={1536}
+          height={1024}
           className="absolute inset-0 w-full h-full object-cover opacity-20"
+          fetchPriority="high"
         />
         <div className="absolute inset-0 bg-gradient-to-b from-[#060810]/60 via-transparent to-[#060810]/90" />
         <div className="absolute inset-0 gradient-bg opacity-60" />

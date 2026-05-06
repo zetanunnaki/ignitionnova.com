@@ -62,6 +62,16 @@ export default async function ServicePage({ params }: Props) {
           data={{ questions: ((service as Record<string, unknown>).faq as Array<{question: string; answer: string}>).map(f => ({ q: f.question, a: f.answer })) }}
         />
       )}
+      {"process" in service && (
+        <StructuredData
+          type="how-to"
+          data={{
+            name: `How to ${service.shortTitle}: Our Process`,
+            description: `Our proven ${service.shortTitle} process for delivering measurable results.`,
+            steps: ((service as Record<string, unknown>).process as Array<{step: number; title: string; description: string}>).map(p => ({ name: p.title, text: p.description })),
+          }}
+        />
+      )}
 
       <section className="relative pt-40 pb-24 overflow-hidden">
         <div className="absolute inset-0 bg-[#060810]" />

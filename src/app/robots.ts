@@ -42,6 +42,38 @@ export default function robots(): MetadataRoute.Robots {
         userAgent: "ClaudeBot",
         allow: "/",
       },
+      {
+        userAgent: "Applebot-Extended",
+        allow: "/",
+      },
+      {
+        userAgent: "YouBot",
+        allow: "/",
+      },
+      {
+        userAgent: "cohere-ai",
+        allow: "/",
+      },
+      {
+        userAgent: "Bytespider",
+        disallow: "/",
+      },
+      {
+        userAgent: "AhrefsBot",
+        disallow: "/",
+      },
+      {
+        userAgent: "SemrushBot",
+        disallow: "/",
+      },
+      {
+        userAgent: "MJ12bot",
+        disallow: "/",
+      },
+      {
+        userAgent: "DotBot",
+        disallow: "/",
+      },
     ],
     sitemap: "https://www.ignitionnova.com/sitemap.xml",
   };

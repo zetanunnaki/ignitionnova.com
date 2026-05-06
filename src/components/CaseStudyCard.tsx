@@ -43,8 +43,11 @@ export function CaseStudyCard({
             <img
               src={heroImage}
               alt={`${client} case study`}
+              width={1536}
+              height={1024}
               className="absolute inset-0 w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
               loading="lazy"
+              decoding="async"
             />
           )}
           <div className="absolute inset-0 bg-gradient-to-t from-[#060810]/80 via-transparent to-transparent" />
