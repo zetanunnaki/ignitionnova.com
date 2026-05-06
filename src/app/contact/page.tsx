@@ -1,7 +1,6 @@
 import { Metadata } from "next";
 import { AnimateIn } from "@/components/AnimateIn";
 import { ContactForm } from "@/components/ContactForm";
-import siteData from "../../../data/site.json";
 
 export const metadata: Metadata = {
   title: "Contact Us",
@@ -14,39 +13,6 @@ export const metadata: Metadata = {
     url: "https://www.ignitionnova.com/contact",
   },
 };
-
-const contactInfo = [
-  {
-    number: "01",
-    label: "Phone",
-    value: siteData.phone,
-    icon: (
-      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
-        <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z" />
-      </svg>
-    ),
-  },
-  {
-    number: "02",
-    label: "Address",
-    value: siteData.address,
-    icon: (
-      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
-        <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z" /><circle cx="12" cy="10" r="3" />
-      </svg>
-    ),
-  },
-  {
-    number: "03",
-    label: "Email",
-    value: siteData.email,
-    icon: (
-      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
-        <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z" /><polyline points="22,6 12,13 2,6" />
-      </svg>
-    ),
-  },
-];
 
 export default function ContactPage() {
   return (
@@ -89,26 +55,8 @@ export default function ContactPage() {
             </div>
 
             <div className="lg:col-span-2">
-              <div className="space-y-6">
-                {contactInfo.map((info, i) => (
-                  <AnimateIn key={info.label} delay={i * 0.1}>
-                    <div className="flex items-start gap-5 glass-card rounded-2xl p-7 group">
-                      <div className="w-13 h-13 rounded-2xl bg-gradient-to-br from-accent/10 to-accent-hot/5 border border-accent/10 flex items-center justify-center text-accent flex-shrink-0 group-hover:scale-110 transition-transform duration-300">
-                        {info.icon}
-                      </div>
-                      <div>
-                        <p className="text-[10px] font-bold text-accent uppercase tracking-[0.2em] mb-1.5">
-                          {info.number}. {info.label}
-                        </p>
-                        <p className="text-primary font-medium">{info.value}</p>
-                      </div>
-                    </div>
-                  </AnimateIn>
-                ))}
-              </div>
-
-              <AnimateIn delay={0.4}>
-                <div className="mt-8 glass-card rounded-2xl p-7 border-accent/10 relative overflow-hidden">
+              <AnimateIn>
+                <div className="glass-card rounded-2xl p-7 border-accent/10 relative overflow-hidden">
                   <div className="absolute top-0 right-0 w-24 h-24 bg-gradient-to-bl from-accent/5 to-transparent rounded-bl-full" />
                   <div className="relative z-10">
                     <h3 className="font-heading font-bold text-primary mb-3">
